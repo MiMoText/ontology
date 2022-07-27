@@ -1,9 +1,7 @@
 # ontology
----
 Ontology of the [MiMoText project](https://mimotext.uni-trier.de/en).
 
 ## Context & scope
----
 The MiMoText ontology is dedicated to the domain of literary history and historiography – a broad and far-reaching field of knowledge which we do not intend to address in its entirety. The scope and coverage of the ontology result from the practical requirements of the realization of our knowledge graph and the associated concerns.
 An essential particularity of our domain is that we model perspectives rather than facts. Therefore, the possibilities of the linked open data paradigm to let complementary and also contradictory statements coexist are very useful to us. This particularity has the consequence that 'reification' (i.e., statements about statements) is an important modeling dimension that includes, among other things, the unambiguous referencing of each statement, including linkage to the dataset to which it can be traced.
 
@@ -11,12 +9,10 @@ An essential particularity of our domain is that we model perspectives rather th
 Schöch, Christof, Maria Hinzmann, Röttgermann Julia, Anne Klee, and Katharina Dietz. “Smart Modelling for Literary History.” IJHAC: International Journal of Humanities and Arts Computing [Special Issue on Linked Open Data] 16, no. 1 (2022): 78–93. (https://doi.org/10.3366/ijhac.2022.0278).
 
 ## Aims
----
 1. One goal of the ontology is to structure data in the project "Mining and Modeling Text". Essentially, this project is about extracting heterogeneous data from three different types of sources using quantitative methods (mining) and linking them in such a way (modeling) that they can be aggregated in a queryable knowledge graph and offer interesting perspectives as well as innovative research opportunities for researchers.
 2. We consider the French Enlightenment novel as an example and designed our project and the ontology to be transferable to other domains of the humanities (philosophy, history and cultural studies, art history, etc.).
 
 ## Structure
----
 We structure the ontology in modules to increase interoperability, reuse possibilities, and reproducibility. The objectives can be differentiated:
 
 * Clarity & reproducibility: The conceptual decisions as well as our source data are thereby understandable and traceable in individual 'packages'.
@@ -24,7 +20,6 @@ We structure the ontology in modules to increase interoperability, reuse possibi
 * Use of MiMoTextBase via the SPARQL-endpoint: In particular, more complex queries require a thorough knowledge of the data model and the imported data. In addition to our tutorial, the ontology should enable the formulation of SPARQL-queries (especially for those who already have SPARQL knowledge) and an interest-specific, targeted understanding of the data model.
 
 ## Modules
----
 The modules are heterogeneous in scope / coverage. Within the modules, all essential modeling decisions are represented and reflected.
 Reuse: The functionality of Wikibase as well as conventions and standards in Wikidata are crucial for our modeling decisions. We have taken other standards into account where possible and will expand this in the future (see below).
 There are currently 9# completed modules, and another 4# in progress respectively planned:
@@ -48,25 +43,21 @@ Furthermore, three modules are in progress that address the different source typ
 In the visualizations of the ontology version 1.0, in all modules the Q-items and properties are represented for which data are already available in the MiMoTextBase. In some cases we have highlighted extension plans for the near future in gray.
 
 ## Formal representation and reuse
----
 This repository addresses so far mainly the conceptual representation. The ontology is part of the entire MiMoText knowledge graph and downloadable as an RDFdump for further use in a local Wikibase.
 We plan to represent all classes (Q-items) and properties in Wikidata in their module structure, so that they and their associated instance data can be easily retrieved via SPARQL-query.
 We are thinking about making the overall ontology as well as the individual modules available as OWL files, also depending on feedback about possible usage scenarios. Flexible visualization of the ontology would be one of the benefits.
 
 ## Modeling approach & decisions
----
 We are not attempting to model the entire domain of literary history and historiography deductively, but rather based on our purpose to connect inductively the different data source types.
 Where possible and necessary, for example in the case of the narrative form, we have conceptually addressed the corresponding theoretical concepts and strived for a mediation that increases plausibility and acceptance among literary scholars. We are further developing the more detailed documentation to this end.
 
 ## Infrastructure & prefixes
----
 For the provision of data, we follow open science principles, such as the publication of FAIR in open access as well as the use of open source software – in particular Wikibase. We created a custom bot using the Python library Pywikibot to import and update the RDF triples into our Wikibase instance from TSV files. [BLOG-Beitrag] + [Link WikibaseBot-Repo]
 We understand our MiMoTextBase as part of the Wikibase ecosystem with the decision for a local Wikibase instance. [MiMoTextBase: About.]
 The infrastructure of a local Wikibase has a significant influence on the data model and therefore also on the query possibilities. [Wikibase data model + MiMoTextBase: about]
 Regarding the prefixes, we have decided to as soon as possible change the prefixes currently available in our local Wikibase, which correspond to those of Wikidata, so that, among other things, no confusion arises with 'federated queries'. We will stay within the Wikidata logic of the labeling to increase usability for those who are already familiar with the Wikidata prefixes (e.g. 'mmd' for the 'entities' with the prefix 'wd', 'mmdt' for the 'properties' with 'wdt').
 
 ## Future work
----
 ### Interoperability & reuse
 We plan to further increase interoperability by a formal representation for different user groups: a) For users within the wikiverse, this will be done via 'entity schemes'. b) In the spirit of the general W3C standard, this will involve a representation of the ontology in OWL (Protégé).
 With regard to reuse and mapping, we have so far focused on Wikidata, which we see as a kind of 'hub'. In the development of the ontology, we have explored other projects in or neighboring our domain and tried to integrate solution approaches, if they were transferable, into our modeling (e.g. ONAMA, enslaved.org, Krater/O4DH ArtBase, serb. ELTeC in Wikidata). The ELTeC project is particularly related, insofar as it also involves modeling novel data in Wikidata. However, while in ELTeC the differentiation between the literary work and different edition versions is important, we have decided to put the literary work in the center and to avoid further differentiations within our MiMoTextBase in order to reduce complexity.
