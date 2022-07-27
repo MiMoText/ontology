@@ -1,4 +1,4 @@
-# ontology
+# Ontology
 Ontology of the [MiMoText project](https://mimotext.uni-trier.de/en).
 
 ## Context & scope
@@ -22,25 +22,29 @@ We structure the ontology in modules to increase interoperability, reuse possibi
 ## Modules
 The modules are heterogeneous in scope / coverage. Within the modules, all essential modeling decisions are represented and reflected.
 Reuse: The functionality of Wikibase as well as conventions and standards in Wikidata are crucial for our modeling decisions. We have taken other standards into account where possible and will expand this in the future (see below).
-There are currently 9# completed modules, and another 4# in progress respectively planned:
+There are currently 8 completed modules, and another 5 in progress or planned:
 
 * Module 1: thematic statement
 * Module 2: spatial statement
 * Module 3: narrative form
 * Module 4: literary work
 * Module 5: author
-* Module 6: mapping
+* Module 6: mapping [under construction]
 * Module 7: referencing
-* Module 8: versioning
+* Module 8: versioning [under construction]
 * Module 9: terminology
 * Module 10: standardization [under construction]
 * Module 11: bibliography [under construction]
-* Module 12: publication [under construction]
+* Module 12: publication
 * Module 13: scholarly work [under construction]
 
 These modules are related to and based on two pilot projects (1 & 2), a statement type that is central to our domain (3), our two central entity types or 'classes' (4 and 5), three further modules that represent central challenges and our approaches to solving them (6-8), and a module that represents the modeling of our multilingual controlled vocabularies and depicts terminological decisions (9). Under construction or planned for the near future are also a standardization module (10) to ensure and enable compatibility with other infrastructures, schemas and modeling approaches.
 Furthermore, three modules are in progress that address the different source types of MiMoText: a module on our main bibliographic source (11), a module integrating the different source types including data sets (12), and a module for importing the scholarly literature data (13).
 In the visualizations of the ontology version 1.0, in all modules the Q-items and properties are represented for which data are already available in the MiMoTextBase. In some cases we have highlighted extension plans for the near future in gray.
+
+**[Module overview and visualizations](https://github.com/MiMoText/ontology/blob/main/Modules%20overview.md)**
+
+The visualizations were created using the software [VUE (= Visual Understanding Environment)](https://vue.tufts.edu/), an open source project of Tufts University.
 
 ## Formal representation and reuse
 This repository addresses so far mainly the conceptual representation. The ontology is part of the entire MiMoText knowledge graph and downloadable as an RDFdump for further use in a local Wikibase.
@@ -85,4 +89,20 @@ The field of validation (e.g. via SHACL, ShEx) should be thought through and exp
 We have so far focused mainly on referencing (see referencing module) and conceptualized to use simple qualifiers (e.g. counting text occurrences with the property "occurence in text"). We have not yet made use of all the potential of the Wikibase infrastructure, for example, for ranking statements or modeling different reliabilities of statements. However, we have discussed this in the context of ranking topics for more precise modeling of thematic statements based on topic modeling.
 The question of inferring statements from other statements (implicit statements) is different within the data model of Wikibase (and our ontology working with it) than in ontologies that follow the OWL standards more strictly and in particular make a clear separation of classes and instance data ('individuals'). This separation does not exist in the Wikibase ecosystem, which has consequences for inferences. Nevertheless, inference is of course possible, also insofar as there are efforts to increase the interoperability of the Wikibase data model.
 
+### Further information
 See also: [About MiMoTextBase](https://mimotext.github.io/MiMoTextBase_Tutorial/aboutMiMoTextBase.html)
+
+## References
+* Arenas, Marcelo, Claudio Gutierrez, and Jorge Pérez. 2010. “On the Semantics of SPARQL.” In Semantic Web Information Management: A Model-Based Perspective, edited by Roberto de Virgilio, Fausto Giunchiglia, and Letizia Tanca, 281–307. Berlin, Heidelberg: Springer. https://doi.org/10.1007/978-3-642-04329-1_13.
+* Eells, Andrew, Cogan Shimizu, Lu Zhou, Pascal Hitzler, and Dean Rehberger. 2021. “Aligning Patterns to the Wikibase Model.” In Http://Ontologydesignpatterns.Org/Wiki/WOP:2021. https://daselab.cs.ksu.edu/sites/default/files/WOP2021_paper_4.pdf.
+* Gangemi, Aldo, and Valentina Presutti. 2009. “Ontology Design Patterns.” In Handbook on Ontologies, 221–43. https://doi.org/10.1007/978-3-540-92673-3_10.
+* Gruber, Thomas R. 1995. “Toward Principles for the Design of Ontologies Used for Knowledge Sharing?” International Journal of Human-Computer Studies 43 (5): 907–28. https://doi.org/10.1006/ijhc.1995.1081.
+* Hitzler, P. 2021. “A Review of the Semantic Web Field.” Commun. ACM. https://doi.org/10.1145/3397512.
+* Hitzler, P., M. Krötzsch, and S. Rudolph. 2009. “Foundations of Semantic Web Technologies.” In . https://doi.org/10.1201/9781420090512.
+* Hitzler, Pascal, Aldo Gangemi, Krzysztof Janowicz, Adila Krisnadhi, and Valentina Presutti, eds. 2016. Ontology Engineering with Ontology Design Patterns: Foundations and Applications. Studies on the Semantic Web, vol. 025. Berlin, Germany : Amsterdam, Netherlands: Akademische Verlagsgesellschaft ; IOS Press.
+* Ikonić Nešić, Milica, Ranka Stanković, and Biljana Rujević. 2021. “Serbian ELTeC Sub-Collection in Wikidata.” Infotheca 21 (2): 60–86. https://doi.org/10.18485/infotheca.2021.21.2.4.
+* Janowicz, Krzysztof, Aldo Gangemi, Pascal Hitzler, Adila Krisnadhi, and Valentina Presutti. 2016. “Introduction: Ontology Design Patterns in a Nutshell.” In Ontology Engineering with Ontology Design Patterns: Foundations and Applications, edited by Pascal Hitzler, Aldo Gangemi, Krzysztof Janowicz, Adila Krisnadhi, and Valentina Presutti. Studies on the Semantic Web, vol. 025. Berlin, Germany : Amsterdam, Netherlands: Akademische Verlagsgesellschaft ; IOS Press. https://people.cs.ksu.edu/~hitzler/pub2/00-introduction.pdf.
+* Noy, Natalya F., and Deborah L. McGuinness. 2001. “Ontology Development 101: A Guide to Creating Your First Ontology.” https://protege.stanford.edu/publications/ontology_development/ontology101.pdf.
+* Rehbein, Malte. 2017. “Ontologien.” In Digital Humanities, edited by Fotis Jannidis, Hubertus Kohle, and Malte Rehbein, 162–76. Stuttgart: Metzler. https://doi.org/10.1007/978-3-476-05446-3_11.
+* Shimizu, Cogan, Karl Hammar, and Pascal Hitzler. 2021. “Modular Ontology Modeling.” Semantic Web – Interoperability, Usability, Applicability. http://www.semantic-web-journal.net/content/modular-ontology-modeling-1.
+* Shimizu, Cogan, Quinn Hirt, and Pascal Hitzler. 2019. “MODL: A Modular Ontology Design Library.” ArXiv:1904.05405 [Cs], April. http://arxiv.org/abs/1904.05405.
