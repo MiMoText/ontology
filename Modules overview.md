@@ -11,7 +11,7 @@
 ---
 
 ## Module 3: Narrative form
-![!Module 3](https://github.com/MiMoText/ontology/blob/main/module3_narrative%20form/module3_narrative-form.png "Module 3: Narrative form")
+![!Module 3](https://github.com/MiMoText/ontology/blob/main/module3_narrative-form/module3_narrative-form.png "Module 3: Narrative form")
 
 ---
 
@@ -31,7 +31,7 @@
 ---
 
 ## Module 8: Versioning and publication
-![!Module 8](https://github.com/MiMoText/ontology/blob/main/module12_publication/module8_versioning-and-publication.png "Module 8: Versioning and publication")
+![!Module 8](https://github.com/MiMoText/ontology/blob/main/module8_versioning-and-publication/module8_versioning-and-publication.png "Module 8: Versioning and publication")
 
 ---
 

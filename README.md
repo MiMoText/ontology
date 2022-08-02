@@ -36,8 +36,8 @@ There are currently 8 completed modules, and another 3 in progress or planned:
 * Module 10: bibliography [under construction]
 * Module 11: scholarly work [planned]
 
-These modules are related to and based on two pilot projects (1 & 2), a statement type that is central to our domain (3), our two central entity types or 'classes' (4 and 5), three further modules that represent central challenges and our approaches to solving them (6-8), a module that represents the modeling of our multilingual controlled vocabularies and depicts terminological decisions (9) as well as one for integrating the different source types including data sets (10).
-Furthermore, two further modules are planned that address more detailed the different source types of MiMoText: a module on our main bibliographic source (11) and a module for the scholarly literature data (12). In the visualizations of the ontology version 1.0, in all modules the Q-items and properties are represented for which data are already available in the MiMoTextBase. In some cases we have highlighted extension plans for the near future in gray.
+These modules are related to and based on two pilot projects (1 & 2), a statement type that is central to our domain (3), our two central entity types or 'classes' (4 and 5), three further modules that represent central challenges and our approaches to solving them (6-7), as well as one for integrating the different source types including data sets (8) and a module that represents the modeling of our multilingual controlled vocabularies and depicts terminological decisions (9).
+Furthermore, two further modules are planned that address more detailed the different source types of MiMoText: a module on our main bibliographic source (10) and a module for the scholarly literature data (11). In the visualizations of the ontology version 1.0, in all modules the Q-items and properties are represented for which data are already available in the MiMoTextBase. In some cases we have highlighted extension plans for the near future in gray.
 
 **[Module overview and visualizations](https://github.com/MiMoText/ontology/blob/main/Modules%20overview.md)**
 
