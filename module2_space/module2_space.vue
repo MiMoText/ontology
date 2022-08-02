@@ -1,18 +1,18 @@
-<!-- Tufts VUE 3.3.0 concept-map (module2_space.vue) 2022-07-27 -->
+<!-- Tufts VUE 3.3.0 concept-map (module2_space.vue) 2022-08-02 -->
 <!-- Tufts VUE: http://vue.tufts.edu/ -->
 <!-- Do Not Remove: VUE mapping @version(1.1) jar:file:/C:/Program%20Files%20(x86)/VUE/VUE.jar!/tufts/vue/resources/lw_mapping_1_1.xml -->
-<!-- Do Not Remove: Saved date Wed Jul 27 19:17:37 CEST 2022 by hinzmannm on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
+<!-- Do Not Remove: Saved date Tue Aug 02 07:31:56 CEST 2022 by hinzmannm on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
 <!-- Do Not Remove: Saving version @(#)VUE: built October 8 2015 at 1658 by tomadm on Linux 2.6.32-504.23.4.el6.x86_64 i386 JVM 1.7.0_21-b11(bits=32) -->
 <?xml version="1.0" encoding="US-ASCII"?>
 <LW-MAP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="none" ID="0"
     label="module2_space.vue" created="1599579702200" x="0.0" y="0.0"
     width="3551.779" height="1194.9597" strokeWidth="0.0" autoSized="false">
-    <resource referenceCreated="1658942257256"
-        spec="C:\Users\hinzmannm\Documents\Seafile\MiMoText\Modellierungen\MODULES\module2_spaces\module2_space.vue"
+    <resource referenceCreated="1659418316331" size="41512"
+        spec="C:\Users\hinzmannm\Documents\Github\ontology\module2_space\module2_space.vue"
         type="1" xsi:type="URLResource">
         <title>module2_space.vue</title>
-        <property key="File" value="C:\Users\hinzmannm\Documents\Seafile\MiMoText\Modellierungen\MODULES\module2_spaces\module2_space.vue"/>
+        <property key="File" value="C:\Users\hinzmannm\Documents\Github\ontology\module2_space\module2_space.vue"/>
     </resource>
     <fillColor>#FFFFFF</fillColor>
     <strokeColor>#404040</strokeColor>
@@ -138,7 +138,7 @@
         <ID1 xsi:type="node">373</ID1>
         <ID2 xsi:type="node">391</ID2>
     </child>
-    <child ID="390" label="MODULE 2: spaces" layerID="1"
+    <child ID="390" label="MODULE 2: space" layerID="1"
         created="1653059746667" x="-829.1356" y="-832.8577"
         width="496.9672" height="91.69104" strokeWidth="1.0"
         autoSized="false" xsi:type="node">
@@ -803,6 +803,6 @@
     </PathwayList>
     <date>2020-09-08</date>
     <modelVersion>6</modelVersion>
-    <saveLocation>C:\Users\hinzmannm\Documents\Seafile\MiMoText\Modellierungen\MODULES\module2_spaces</saveLocation>
-    <saveFile>C:\Users\hinzmannm\Documents\Seafile\MiMoText\Modellierungen\MODULES\module2_spaces\module2_space.vue</saveFile>
+    <saveLocation>C:\Users\hinzmannm\Documents\Github\ontology\module2_space</saveLocation>
+    <saveFile>C:\Users\hinzmannm\Documents\Github\ontology\module2_space\module2_space.vue</saveFile>
 </LW-MAP>

@@ -1,18 +1,18 @@
-<!-- Tufts VUE 3.3.0 concept-map (module9_terminology.vue) 2022-07-27 -->
+<!-- Tufts VUE 3.3.0 concept-map (module9_terminology.vue) 2022-08-02 -->
 <!-- Tufts VUE: http://vue.tufts.edu/ -->
 <!-- Do Not Remove: VUE mapping @version(1.1) jar:file:/C:/Program%20Files%20(x86)/VUE/VUE.jar!/tufts/vue/resources/lw_mapping_1_1.xml -->
-<!-- Do Not Remove: Saved date Wed Jul 27 19:37:43 CEST 2022 by hinzmannm on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
+<!-- Do Not Remove: Saved date Tue Aug 02 08:09:54 CEST 2022 by hinzmannm on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
 <!-- Do Not Remove: Saving version @(#)VUE: built October 8 2015 at 1658 by tomadm on Linux 2.6.32-504.23.4.el6.x86_64 i386 JVM 1.7.0_21-b11(bits=32) -->
 <?xml version="1.0" encoding="US-ASCII"?>
 <LW-MAP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="none" ID="0"
     label="module9_terminology.vue" created="1599579702200" x="0.0"
     y="0.0" width="3551.779" height="1194.9597" strokeWidth="0.0" autoSized="false">
-    <resource referenceCreated="1658943463589"
-        spec="C:\Users\hinzmannm\Documents\Seafile\MiMoText\Modellierungen\MODULES\module9_terminology\module9_terminology.vue"
+    <resource referenceCreated="1659420594332" size="31590"
+        spec="C:\Users\hinzmannm\Documents\Github\ontology\module9_terminology\module9_terminology.vue"
         type="1" xsi:type="URLResource">
         <title>module9_terminology.vue</title>
-        <property key="File" value="C:\Users\hinzmannm\Documents\Seafile\MiMoText\Modellierungen\MODULES\module9_terminology\module9_terminology.vue"/>
+        <property key="File" value="C:\Users\hinzmannm\Documents\Github\ontology\module9_terminology\module9_terminology.vue"/>
     </resource>
     <fillColor>#FFFFFF</fillColor>
     <strokeColor>#404040</strokeColor>
@@ -193,7 +193,7 @@
         autoSized="false" xsi:type="node">
         <fillColor>#00000000</fillColor>
         <strokeColor>#7F7F7F</strokeColor>
-        <textColor>#4C4C4C</textColor>
+        <textColor>#7F7F7F</textColor>
         <font>Arial-plain-24</font>
         <URIString>http://vue.tufts.edu/rdf/resource/e25202cac0a8b22301b954aff68b8c6a</URIString>
         <shape xsi:type="ellipse"/>
@@ -216,7 +216,7 @@
         width="125.0" height="62.346397" strokeWidth="1.0"
         autoSized="false" controlCount="0" arrowState="2" xsi:type="link">
         <strokeColor>#7F7F7F</strokeColor>
-        <textColor>#4C4C4C</textColor>
+        <textColor>#7F7F7F</textColor>
         <font>Arial-plain-28</font>
         <URIString>http://vue.tufts.edu/rdf/resource/e25202cbc0a8b22301b954af21e72b15</URIString>
         <point1 x="107.78585" y="-39.906693"/>
@@ -352,7 +352,7 @@
         autoSized="false" xsi:type="node">
         <fillColor>#00000000</fillColor>
         <strokeColor>#7F7F7F</strokeColor>
-        <textColor>#4C4C4C</textColor>
+        <textColor>#7F7F7F</textColor>
         <font>Arial-plain-24</font>
         <URIString>http://vue.tufts.edu/rdf/resource/e25202ccc0a8b22301b954af0391102a</URIString>
         <shape xsi:type="ellipse"/>
@@ -375,7 +375,7 @@
         width="143.36926" height="61.57968" strokeWidth="1.0"
         autoSized="false" controlCount="0" arrowState="2" xsi:type="link">
         <strokeColor>#7F7F7F</strokeColor>
-        <textColor>#4C4C4C</textColor>
+        <textColor>#7F7F7F</textColor>
         <font>Arial-plain-28</font>
         <URIString>http://vue.tufts.edu/rdf/resource/e25202ccc0a8b22301b954af2d7bd5cc</URIString>
         <point1 x="-901.8355" y="-95.758606"/>
@@ -491,7 +491,7 @@
         <URIString>http://vue.tufts.edu/rdf/resource/4044332588c70405005e1d983cddb756</URIString>
         <shape xsi:type="ellipse"/>
     </child>
-    <child ID="481" label="MODULE : terminology" layerID="1"
+    <child ID="481" label="MODULE 9: terminology" layerID="1"
         created="1658921015468" x="-719.35645" y="-844.9172"
         width="483.43164" height="84.8" strokeWidth="1.0"
         autoSized="false" xsi:type="node">
@@ -606,6 +606,6 @@
     </PathwayList>
     <date>2020-09-08</date>
     <modelVersion>6</modelVersion>
-    <saveLocation>C:\Users\hinzmannm\Documents\Seafile\MiMoText\Modellierungen\MODULES\module9_terminology</saveLocation>
-    <saveFile>C:\Users\hinzmannm\Documents\Seafile\MiMoText\Modellierungen\MODULES\module9_terminology\module9_terminology.vue</saveFile>
+    <saveLocation>C:\Users\hinzmannm\Documents\Github\ontology\module9_terminology</saveLocation>
+    <saveFile>C:\Users\hinzmannm\Documents\Github\ontology\module9_terminology\module9_terminology.vue</saveFile>
 </LW-MAP>

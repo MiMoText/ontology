@@ -30,10 +30,10 @@
 
 ---
 
-## Module 9: Terminology
-![!Module 9](https://github.com/MiMoText/ontology/blob/main/module9_terminology/module9_terminology.png "Module 9: Terminology")
+## Module 8: Versioning and publication
+![!Module 8](https://github.com/MiMoText/ontology/blob/main/module12_publication/module8_versioning-and-publication.png "Module 8: Versioning and publication")
 
 ---
 
-## Module 12: Publication
-![!Module 12](https://github.com/MiMoText/ontology/blob/main/module12_publication/module12_publication.png "Module 12: Publication")
+## Module 9: Terminology
+![!Module 9](https://github.com/MiMoText/ontology/blob/main/module9_terminology/module9_terminology.png "Module 9: Terminology")

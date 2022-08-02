@@ -1,18 +1,18 @@
-<!-- Tufts VUE 3.3.0 concept-map (module1.vue) 2022-07-27 -->
+<!-- Tufts VUE 3.3.0 concept-map (module1_theme.vue) 2022-08-02 -->
 <!-- Tufts VUE: http://vue.tufts.edu/ -->
 <!-- Do Not Remove: VUE mapping @version(1.1) jar:file:/C:/Program%20Files%20(x86)/VUE/VUE.jar!/tufts/vue/resources/lw_mapping_1_1.xml -->
-<!-- Do Not Remove: Saved date Wed Jul 27 18:55:00 CEST 2022 by hinzmannm on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
+<!-- Do Not Remove: Saved date Tue Aug 02 07:31:31 CEST 2022 by hinzmannm on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
 <!-- Do Not Remove: Saving version @(#)VUE: built October 8 2015 at 1658 by tomadm on Linux 2.6.32-504.23.4.el6.x86_64 i386 JVM 1.7.0_21-b11(bits=32) -->
 <?xml version="1.0" encoding="US-ASCII"?>
 <LW-MAP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:noNamespaceSchemaLocation="none" ID="0" label="module1.vue"
-    created="1599579702200" x="0.0" y="0.0" width="3551.779"
-    height="1194.9597" strokeWidth="0.0" autoSized="false">
-    <resource referenceCreated="1658940900598"
-        spec="C:\Users\hinzmannm\Documents\Seafile\MiMoText\Modellierungen\MODULES\module1_themes\module1.vue"
+    xsi:noNamespaceSchemaLocation="none" ID="0"
+    label="module1_theme.vue" created="1599579702200" x="0.0" y="0.0"
+    width="3551.779" height="1194.9597" strokeWidth="0.0" autoSized="false">
+    <resource referenceCreated="1659418291146" size="47314"
+        spec="C:\Users\hinzmannm\Documents\Github\ontology\module1_theme\module1_theme.vue"
         type="1" xsi:type="URLResource">
-        <title>module1.vue</title>
-        <property key="File" value="C:\Users\hinzmannm\Documents\Seafile\MiMoText\Modellierungen\MODULES\module1_themes\module1.vue"/>
+        <title>module1_theme.vue</title>
+        <property key="File" value="C:\Users\hinzmannm\Documents\Github\ontology\module1_theme\module1_theme.vue"/>
     </resource>
     <fillColor>#FFFFFF</fillColor>
     <strokeColor>#404040</strokeColor>
@@ -643,7 +643,7 @@
         <ID2 xsi:type="node">307</ID2>
         <ctrlPoint0 x="144.09811" y="-394.69867" xsi:type="point"/>
     </child>
-    <child ID="390" label="MODULE 1: themes" layerID="1"
+    <child ID="390" label="MODULE 1: theme" layerID="1"
         created="1653059746667" x="-582.0702" y="-934.8732"
         width="514.4" height="91.69104" strokeWidth="1.0"
         autoSized="false" xsi:type="node">
@@ -916,6 +916,6 @@
     </PathwayList>
     <date>2020-09-08</date>
     <modelVersion>6</modelVersion>
-    <saveLocation>C:\Users\hinzmannm\Documents\Seafile\MiMoText\Modellierungen\MODULES\module1_themes</saveLocation>
-    <saveFile>C:\Users\hinzmannm\Documents\Seafile\MiMoText\Modellierungen\MODULES\module1_themes\module1.vue</saveFile>
+    <saveLocation>C:\Users\hinzmannm\Documents\Github\ontology\module1_theme</saveLocation>
+    <saveFile>C:\Users\hinzmannm\Documents\Github\ontology\module1_theme\module1_theme.vue</saveFile>
 </LW-MAP>

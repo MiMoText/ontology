@@ -1,18 +1,18 @@
-<!-- Tufts VUE 3.3.0 concept-map (module7_referencing.vue) 2022-07-27 -->
+<!-- Tufts VUE 3.3.0 concept-map (module7_referencing.vue) 2022-08-02 -->
 <!-- Tufts VUE: http://vue.tufts.edu/ -->
 <!-- Do Not Remove: VUE mapping @version(1.1) jar:file:/C:/Program%20Files%20(x86)/VUE/VUE.jar!/tufts/vue/resources/lw_mapping_1_1.xml -->
-<!-- Do Not Remove: Saved date Wed Jul 27 19:35:59 CEST 2022 by hinzmannm on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
+<!-- Do Not Remove: Saved date Tue Aug 02 08:09:53 CEST 2022 by hinzmannm on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
 <!-- Do Not Remove: Saving version @(#)VUE: built October 8 2015 at 1658 by tomadm on Linux 2.6.32-504.23.4.el6.x86_64 i386 JVM 1.7.0_21-b11(bits=32) -->
 <?xml version="1.0" encoding="US-ASCII"?>
 <LW-MAP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="none" ID="0"
     label="module7_referencing.vue" created="1653295019091" x="0.0"
     y="0.0" width="1.4E-45" height="1.4E-45" strokeWidth="0.0" autoSized="false">
-    <resource referenceCreated="1658943359461"
-        spec="C:\Users\hinzmannm\Documents\Seafile\MiMoText\Modellierungen\MODULES\module7_referencing\module7_referencing.vue"
+    <resource referenceCreated="1659420593170" size="29508"
+        spec="C:\Users\hinzmannm\Documents\Github\ontology\module7_referencing\module7_referencing.vue"
         type="1" xsi:type="URLResource">
         <title>module7_referencing.vue</title>
-        <property key="File" value="C:\Users\hinzmannm\Documents\Seafile\MiMoText\Modellierungen\MODULES\module7_referencing\module7_referencing.vue"/>
+        <property key="File" value="C:\Users\hinzmannm\Documents\Github\ontology\module7_referencing\module7_referencing.vue"/>
     </resource>
     <fillColor>#FFFFFF</fillColor>
     <strokeColor>#404040</strokeColor>
@@ -24,7 +24,7 @@
         width="299.59998" height="69.600006" strokeWidth="1.0"
         autoSized="true" xsi:type="node">
         <fillColor>#00000000</fillColor>
-        <strokeColor>#7F7F7F</strokeColor>
+        <strokeColor>#4C4C4C</strokeColor>
         <textColor>#7F7F7F</textColor>
         <font>Arial-plain-28</font>
         <URIString>http://vue.tufts.edu/rdf/resource/f0111438ac12856101d5f860ddd0f59f</URIString>
@@ -34,7 +34,7 @@
         x="-816.30774" y="177.84412" width="154.00574"
         height="190.30481" strokeWidth="1.0" autoSized="false"
         controlCount="0" arrowState="2" xsi:type="link">
-        <strokeColor>#7F7F7F</strokeColor>
+        <strokeColor>#4C4C4C</strokeColor>
         <textColor>#7F7F7F</textColor>
         <font>Arial-plain-28</font>
         <URIString>http://vue.tufts.edu/rdf/resource/f011143aac12856101d5f8600e7b1d2d</URIString>
@@ -47,7 +47,7 @@
         created="1653295020437" x="-644.4719" y="178.16064"
         width="114.0" height="165.61414" strokeWidth="1.0"
         autoSized="false" controlCount="0" arrowState="2" xsi:type="link">
-        <strokeColor>#7F7F7F</strokeColor>
+        <strokeColor>#4C4C4C</strokeColor>
         <textColor>#7F7F7F</textColor>
         <font>Arial-plain-28</font>
         <URIString>http://vue.tufts.edu/rdf/resource/f011143bac12856101d5f86045a3d7a5</URIString>
@@ -60,7 +60,7 @@
         created="1653295020437" x="-580.15985" y="175.95563"
         width="327.8239" height="190.87183" strokeWidth="1.0"
         autoSized="false" controlCount="0" arrowState="2" xsi:type="link">
-        <strokeColor>#7F7F7F</strokeColor>
+        <strokeColor>#4C4C4C</strokeColor>
         <textColor>#7F7F7F</textColor>
         <font>Arial-plain-28</font>
         <URIString>http://vue.tufts.edu/rdf/resource/f011143bac12856101d5f86004e3ad20</URIString>
@@ -180,7 +180,7 @@
         created="1653383785580" x="-1080.2001" y="133.13254"
         width="296.29718" height="33.0" strokeWidth="1.0"
         autoSized="false" controlCount="0" arrowState="2" xsi:type="link">
-        <strokeColor>#7F7F7F</strokeColor>
+        <strokeColor>#4C4C4C</strokeColor>
         <textColor>#7F7F7F</textColor>
         <font>Arial-plain-28</font>
         <URIString>http://vue.tufts.edu/rdf/resource/f55f916988c7f47e003553f98eaea2ad</URIString>
@@ -193,7 +193,7 @@
         created="1653383817947" x="-1139.7257" y="174.95049"
         width="440.33307" height="213.28018" strokeWidth="1.0"
         autoSized="false" controlCount="0" arrowState="2" xsi:type="link">
-        <strokeColor>#7F7F7F</strokeColor>
+        <strokeColor>#4C4C4C</strokeColor>
         <textColor>#7F7F7F</textColor>
         <font>Arial-plain-28</font>
         <URIString>http://vue.tufts.edu/rdf/resource/f55f916988c7f47e003553f9bcb13f94</URIString>
@@ -220,9 +220,9 @@
         layerID="1" created="1653384035504" x="231.1709" y="543.47894"
         width="432.0" height="107.0" strokeWidth="1.0" strokeStyle="4"
         autoSized="true" xsi:type="node">
-        <fillColor>#00000000</fillColor>
+        <fillColor>#EEEEEE</fillColor>
         <strokeColor>#000000</strokeColor>
-        <textColor>#EA2218</textColor>
+        <textColor>#000000</textColor>
         <font>Arial-plain-28</font>
         <URIString>http://vue.tufts.edu/rdf/resource/f55f916988c7f47e003553f93083f0e4</URIString>
         <shape xsi:type="rectangle"/>
@@ -231,9 +231,9 @@
         created="1658302364377" x="237.0495" y="-140.63574"
         width="349.0" height="41.0" strokeWidth="1.0" strokeStyle="4"
         autoSized="true" xsi:type="node">
-        <fillColor>#00000000</fillColor>
+        <fillColor>#EEEEEE</fillColor>
         <strokeColor>#000000</strokeColor>
-        <textColor>#EA2218</textColor>
+        <textColor>#000000</textColor>
         <font>Arial-plain-28</font>
         <URIString>http://vue.tufts.edu/rdf/resource/1a932f27c0a8b22301cd2bede12e48b0</URIString>
         <shape xsi:type="rectangle"/>
@@ -477,9 +477,9 @@
     <child ID="66" label="REFERENCING WITH Q-ITEM" layerID="1"
         created="1658494526540" x="-570.2565" y="881.4369" width="400.0"
         height="41.0" strokeWidth="1.0" strokeStyle="4" autoSized="true" xsi:type="node">
-        <fillColor>#00000000</fillColor>
+        <fillColor>#EEEEEE</fillColor>
         <strokeColor>#000000</strokeColor>
-        <textColor>#EA2218</textColor>
+        <textColor>#000000</textColor>
         <font>Arial-plain-28</font>
         <URIString>http://vue.tufts.edu/rdf/resource/260cce6c88c7f4b20073a81741f8ac97</URIString>
         <shape xsi:type="rectangle"/>
@@ -488,9 +488,9 @@
         created="1658495625235" x="-1205.1765" y="883.60565"
         width="333.0" height="41.0" strokeWidth="1.0" strokeStyle="4"
         autoSized="true" xsi:type="node">
-        <fillColor>#00000000</fillColor>
+        <fillColor>#EEEEEE</fillColor>
         <strokeColor>#000000</strokeColor>
-        <textColor>#EA2218</textColor>
+        <textColor>#000000</textColor>
         <font>Arial-plain-28</font>
         <URIString>http://vue.tufts.edu/rdf/resource/260cce6c88c7f4b20073a8177b2daff6</URIString>
         <shape xsi:type="rectangle"/>
@@ -563,6 +563,6 @@
     </PathwayList>
     <date>2022-05-23</date>
     <modelVersion>6</modelVersion>
-    <saveLocation>C:\Users\hinzmannm\Documents\Seafile\MiMoText\Modellierungen\MODULES\module7_referencing</saveLocation>
-    <saveFile>C:\Users\hinzmannm\Documents\Seafile\MiMoText\Modellierungen\MODULES\module7_referencing\module7_referencing.vue</saveFile>
+    <saveLocation>C:\Users\hinzmannm\Documents\Github\ontology\module7_referencing</saveLocation>
+    <saveFile>C:\Users\hinzmannm\Documents\Github\ontology\module7_referencing\module7_referencing.vue</saveFile>
 </LW-MAP>

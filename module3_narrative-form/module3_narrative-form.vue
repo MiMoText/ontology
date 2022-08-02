@@ -1,18 +1,18 @@
-<!-- Tufts VUE 3.3.0 concept-map (module3_narrative-form.vue) 2022-07-27 -->
+<!-- Tufts VUE 3.3.0 concept-map (module3_narrative-form.vue) 2022-08-02 -->
 <!-- Tufts VUE: http://vue.tufts.edu/ -->
 <!-- Do Not Remove: VUE mapping @version(1.1) jar:file:/C:/Program%20Files%20(x86)/VUE/VUE.jar!/tufts/vue/resources/lw_mapping_1_1.xml -->
-<!-- Do Not Remove: Saved date Wed Jul 27 19:20:47 CEST 2022 by hinzmannm on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
+<!-- Do Not Remove: Saved date Tue Aug 02 07:33:13 CEST 2022 by hinzmannm on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
 <!-- Do Not Remove: Saving version @(#)VUE: built October 8 2015 at 1658 by tomadm on Linux 2.6.32-504.23.4.el6.x86_64 i386 JVM 1.7.0_21-b11(bits=32) -->
 <?xml version="1.0" encoding="US-ASCII"?>
 <LW-MAP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="none" ID="0"
     label="module3_narrative-form.vue" created="1599579702200" x="0.0"
     y="0.0" width="3551.779" height="1194.9597" strokeWidth="0.0" autoSized="false">
-    <resource referenceCreated="1658942447377"
-        spec="C:\Users\hinzmannm\Documents\Seafile\MiMoText\Modellierungen\MODULES\module3_narrative-form\module3_narrative-form.vue"
+    <resource referenceCreated="1659418393257" size="26892"
+        spec="C:\Users\hinzmannm\Documents\Github\ontology\module3_narrative form\module3_narrative-form.vue"
         type="1" xsi:type="URLResource">
         <title>module3_narrative-form.vue</title>
-        <property key="File" value="C:\Users\hinzmannm\Documents\Seafile\MiMoText\Modellierungen\MODULES\module3_narrative-form\module3_narrative-form.vue"/>
+        <property key="File" value="C:\Users\hinzmannm\Documents\Github\ontology\module3_narrative form\module3_narrative-form.vue"/>
     </resource>
     <fillColor>#FFFFFF</fillColor>
     <strokeColor>#404040</strokeColor>
@@ -30,10 +30,10 @@
         <URIString>http://vue.tufts.edu/rdf/resource/6f88a2bdc0a8b22a00869a29882d5e26</URIString>
         <shape xsi:type="ellipse"/>
     </child>
-    <child ID="20" label="mmt-p:narrative form" layerID="1"
+    <child ID="20" label="narrative form" layerID="1"
         created="1599595044776" x="-133.06137" y="-98.42352"
-        width="334.0" height="72.0" strokeWidth="1.0" strokeStyle="4"
-        autoSized="true" xsi:type="node">
+        width="308.49673" height="65.600006" strokeWidth="1.0"
+        strokeStyle="4" autoSized="false" xsi:type="node">
         <fillColor>#00000000</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#0877C0</textColor>
@@ -42,28 +42,28 @@
         <shape xsi:type="ellipse"/>
     </child>
     <child ID="72" label="rdfs:domain" layerID="1"
-        created="1601114652170" x="-317.76395" y="-72.02281"
-        width="186.59" height="33.0" strokeWidth="1.0" autoSized="false"
-        controlCount="0" arrowState="2" xsi:type="link">
+        created="1601114652170" x="-317.89752" y="-73.68681"
+        width="187.47955" height="33.0" strokeWidth="1.0"
+        autoSized="false" controlCount="0" arrowState="2" xsi:type="link">
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-28</font>
         <URIString>http://vue.tufts.edu/rdf/resource/ca02638fc0a8b22a00c76bc6150b5205</URIString>
-        <point1 x="-131.67395" y="-58.000877"/>
-        <point2 x="-317.26395" y="-53.04474"/>
+        <point1 x="-130.91797" y="-60.39306"/>
+        <point2 x="-317.39752" y="-53.98056"/>
         <ID1 xsi:type="node">20</ID1>
         <ID2 xsi:type="node">15</ID2>
     </child>
     <child ID="75" label="rdfs:range" layerID="1"
-        created="1601114753833" x="198.18459" y="-70.71097"
-        width="150.71542" height="33.0" strokeWidth="1.0"
+        created="1601114753833" x="172.15851" y="-72.46246"
+        width="176.82837" height="33.0" strokeWidth="1.0"
         autoSized="false" controlCount="0" arrowState="2" xsi:type="link">
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-28</font>
         <URIString>http://vue.tufts.edu/rdf/resource/ca02638fc0a8b22a00c76bc6cda0308e</URIString>
-        <point1 x="198.68457" y="-56.77676"/>
-        <point2 x="348.4" y="-51.645176"/>
+        <point1 x="172.65851" y="-59.51048"/>
+        <point2 x="348.48688" y="-52.41445"/>
         <ID1 xsi:type="node">20</ID1>
         <ID2 xsi:type="node">292</ID2>
     </child>
@@ -202,7 +202,7 @@
         <ID1 xsi:type="node">292</ID1>
         <ID2 xsi:type="node">365</ID2>
     </child>
-    <child ID="459" label="stated in&#xa;(=P248)" layerID="1"
+    <child ID="459" label="stated in" layerID="1"
         created="1658563870681" x="-1057.962" y="-408.17108"
         width="199.0" height="103.5" strokeWidth="1.0" strokeStyle="4"
         autoSized="false" xsi:type="node">
@@ -274,7 +274,7 @@
         <ID1 xsi:type="node">459</ID1>
         <ID2 xsi:type="node">463</ID2>
     </child>
-    <child ID="467" label="stated in&#xa;(=P248)" layerID="1"
+    <child ID="467" label="stated in" layerID="1"
         created="1658563981370" x="-73.515656" y="-409.17725"
         width="199.0" height="103.5" strokeWidth="1.0" strokeStyle="4"
         autoSized="false" xsi:type="node">
@@ -425,7 +425,7 @@
         <textColor>#000000</textColor>
         <font>Arial-plain-28</font>
         <URIString>http://vue.tufts.edu/rdf/resource/2a29224ac0a8b22300870aa49fec0a22</URIString>
-        <shape xsi:type="rectangle"/>
+        <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
     </child>
     <child ID="480" layerID="1" created="1658564355960" x="536.61346"
         y="1.1848145" width="296.03088" height="45.772736"
@@ -511,6 +511,6 @@
     </PathwayList>
     <date>2020-09-08</date>
     <modelVersion>6</modelVersion>
-    <saveLocation>C:\Users\hinzmannm\Documents\Seafile\MiMoText\Modellierungen\MODULES\module3_narrative-form</saveLocation>
-    <saveFile>C:\Users\hinzmannm\Documents\Seafile\MiMoText\Modellierungen\MODULES\module3_narrative-form\module3_narrative-form.vue</saveFile>
+    <saveLocation>C:\Users\hinzmannm\Documents\Github\ontology\module3_narrative form</saveLocation>
+    <saveFile>C:\Users\hinzmannm\Documents\Github\ontology\module3_narrative form\module3_narrative-form.vue</saveFile>
 </LW-MAP>

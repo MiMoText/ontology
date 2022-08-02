@@ -1,18 +1,18 @@
-<!-- Tufts VUE 3.3.0 concept-map (module4_author.vue) 2022-07-27 -->
+<!-- Tufts VUE 3.3.0 concept-map (module5_author.vue) 2022-08-02 -->
 <!-- Tufts VUE: http://vue.tufts.edu/ -->
 <!-- Do Not Remove: VUE mapping @version(1.1) jar:file:/C:/Program%20Files%20(x86)/VUE/VUE.jar!/tufts/vue/resources/lw_mapping_1_1.xml -->
-<!-- Do Not Remove: Saved date Wed Jul 27 19:32:19 CEST 2022 by hinzmannm on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
+<!-- Do Not Remove: Saved date Tue Aug 02 07:38:11 CEST 2022 by hinzmannm on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
 <!-- Do Not Remove: Saving version @(#)VUE: built October 8 2015 at 1658 by tomadm on Linux 2.6.32-504.23.4.el6.x86_64 i386 JVM 1.7.0_21-b11(bits=32) -->
 <?xml version="1.0" encoding="US-ASCII"?>
 <LW-MAP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="none" ID="0"
-    label="module4_author.vue" created="1599579702200" x="0.0" y="0.0"
+    label="module5_author.vue" created="1599579702200" x="0.0" y="0.0"
     width="3551.779" height="1194.9597" strokeWidth="0.0" autoSized="false">
-    <resource referenceCreated="1658943139176" size="21410"
-        spec="C:\Users\hinzmannm\Documents\Seafile\MiMoText\Modellierungen\MODULES\module5_author\module4_author.vue"
+    <resource referenceCreated="1659418691145" size="21439"
+        spec="C:\Users\hinzmannm\Documents\Github\ontology\module5_author\module5_author.vue"
         type="1" xsi:type="URLResource">
-        <title>module4_author.vue</title>
-        <property key="File" value="C:\Users\hinzmannm\Documents\Seafile\MiMoText\Modellierungen\MODULES\module5_author\module4_author.vue"/>
+        <title>module5_author.vue</title>
+        <property key="File" value="C:\Users\hinzmannm\Documents\Github\ontology\module5_author\module5_author.vue"/>
     </resource>
     <fillColor>#FFFFFF</fillColor>
     <strokeColor>#404040</strokeColor>
@@ -144,10 +144,10 @@
   &lt;head&gt;
     &lt;style type="text/css"&gt;
       &lt;!--
-        body { font-family: Arial; margin-top: 0px; color: #000000; margin-left: 0px; font-size: 28; margin-bottom: 0px; margin-right: 0px }
-        ol { vertical-align: middle; font-family: Arial; margin-top: 6; margin-left: 30; font-size: 28; list-style-position: outside }
-        p { margin-top: 0; color: #000000; margin-left: 0; margin-bottom: 0; margin-right: 0 }
-        ul { vertical-align: middle; font-family: Arial; margin-top: 6; margin-left: 30; font-size: 28; list-style-position: outside }
+        body { margin-right: 0px; margin-left: 0px; color: #000000; margin-top: 0px; font-size: 28; margin-bottom: 0px; font-family: Arial }
+        ol { margin-left: 30; margin-top: 6; font-size: 28; list-style-position: outside; vertical-align: middle; font-family: Arial }
+        p { margin-right: 0; margin-left: 0; color: #000000; margin-top: 0; margin-bottom: 0 }
+        ul { margin-left: 30; margin-top: 6; font-size: 28; list-style-position: outside; vertical-align: middle; font-family: Arial }
       --&gt;
     &lt;/style&gt;
     
@@ -303,8 +303,8 @@
         <ID2 xsi:type="node">444</ID2>
     </child>
     <child ID="529" label="rdfs:domain" layerID="1"
-        created="1658942901892" x="-488.41656" y="108.428955"
-        width="147.0" height="181.46631" strokeWidth="1.0"
+        created="1658942901892" x="-487.91656" y="108.428955"
+        width="146.0" height="181.46631" strokeWidth="1.0"
         autoSized="false" controlCount="0" arrowState="2" xsi:type="link">
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
@@ -407,6 +407,6 @@
     </PathwayList>
     <date>2020-09-08</date>
     <modelVersion>6</modelVersion>
-    <saveLocation>C:\Users\hinzmannm\Documents\Seafile\MiMoText\Modellierungen\MODULES\module5_author</saveLocation>
-    <saveFile>C:\Users\hinzmannm\Documents\Seafile\MiMoText\Modellierungen\MODULES\module5_author\module4_author.vue</saveFile>
+    <saveLocation>C:\Users\hinzmannm\Documents\Github\ontology\module5_author</saveLocation>
+    <saveFile>C:\Users\hinzmannm\Documents\Github\ontology\module5_author\module5_author.vue</saveFile>
 </LW-MAP>
