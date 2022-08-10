@@ -46,4 +46,4 @@
 ---
 
 ## Module 10: Bibliography
-![!Module 10](https://github.com/MiMoText/ontology/tree/main/module10_bibliography.png "Module 10: Bibliography")
+![!Module 10](https://github.com/MiMoText/ontology/blob/main/module10_bibliography/module10_bibliography.png "Module 10: Bibliography")
