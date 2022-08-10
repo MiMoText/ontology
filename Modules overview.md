@@ -25,6 +25,11 @@
 
 ---
 
+## Module 6: Mapping
+![!Module 6](https://github.com/MiMoText/ontology/blob/main/module6_mapping/module6_mapping.png "Module 6: Mapping")
+
+---
+
 ## Module 7: Referencing
 ![!Module 7](https://github.com/MiMoText/ontology/blob/main/module7_referencing/module7_referencing.png "Module 7: Referencing")
 
@@ -37,3 +42,8 @@
 
 ## Module 9: Terminology
 ![!Module 9](https://github.com/MiMoText/ontology/blob/main/module9_terminology/module9_terminology.png "Module 9: Terminology")
+
+---
+
+## Module 10: Bibliography
+![!Module 10](https://github.com/MiMoText/ontology/tree/main/module10_bibliography "Module 10: Bibliography")
