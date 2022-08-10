@@ -19,6 +19,13 @@ We structure the ontology in modules to increase interoperability, reuse possibi
 * Transferability: Some challenges are also relevant in other Computational Literary Studies projects as well as in Digital Humanities in general, especially in the linked open data context.
 * Use of MiMoTextBase via the SPARQL-endpoint: In particular, more complex queries require a thorough knowledge of the data model and the imported data. In addition to our tutorial, the ontology should enable the formulation of SPARQL-queries (especially for those who already have SPARQL knowledge) and an interest-specific, targeted understanding of the data model.
 
+## Classes and properties ##
+
+### Classes ###
+
+[author](http://data.mimotext.uni-trier.de/wiki/Item:Q11) [bibliography](http://data.mimotext.uni-trier.de/wiki/Item:Q13) [concept](http://data.mimotext.uni-trier.de/wiki/Item:Q35) [concept narrative form](http://data.mimotext.uni-trier.de/wiki/Item:Q37) [controlled vocabulary](http://data.mimotext.uni-trier.de/wiki/Item:Q17) [data set](http://data.mimotext.uni-trier.de/wiki/Item:Q8) [entity](http://data.mimotext.uni-trier.de/wiki/Item:Q9) [fictional prose](http://data.mimotext.uni-trier.de/wiki/Item:Q12) [human](http://data.mimotext.uni-trier.de/wiki/Item:Q10) [genre](http://data.mimotext.uni-trier.de/wiki/Item:Q33) [item(class)](http://data.mimotext.uni-trier.de/wiki/Item:Q14) [literary work](http://data.mimotext.uni-trier.de/wiki/Item:Q2) [matching table](http://data.mimotext.uni-trier.de/wiki/Item:Q29) [owl:Thing](http://data.mimotext.uni-trier.de/wiki/Item:Q16) [property class](http://data.mimotext.uni-trier.de/wiki/Item:Q15) [publication](http://data.mimotext.uni-trier.de/wiki/Item:Q7) [scholarly work](http://data.mimotext.uni-trier.de/wiki/Item:Q3) [spatial vocabulary](http://data.mimotext.uni-trier.de/wiki/Item:Q31) [thematic concept](http://data.mimotext.uni-trier.de/wiki/Item:Q20) [thematic vocabulary](http://data.mimotext.uni-trier.de/wiki/Item:Q30) [topic](http://data.mimotext.uni-trier.de/wiki/Item:Q22) [topic labels and concepts (11-2020)](http://data.mimotext.uni-trier.de/wiki/Item:Q34) [topic model](http://data.mimotext.uni-trier.de/wiki/Item:Q18) [Topic Model MMT 11-2020](http://data.mimotext.uni-trier.de/wiki/Item:Q21) [vocabulary narrative form](http://data.mimotext.uni-trier.de/wiki/Item:Q32)
+
+
 ## Modules
 The modules are heterogeneous in scope respectively coverage. Within the modules, all essential modeling decisions are represented and reflected.
 The functionality of Wikibase as well as conventions and standards in Wikidata are crucial for our modeling decisions. We have taken other standards into account where possible and will expand this in the future (see below).
@@ -43,9 +50,6 @@ Furthermore, two further modules are planned that address more detailed the diff
 
 The visualizations were created using the software [VUE (= Visual Understanding Environment)](https://vue.tufts.edu/), an open source project of Tufts University.
 
-## Formal representation and reuse
-This repository addresses so far mainly the conceptual representation. The ontology is part of the MiMoTextBase and downloadable as an RDFdump for further use in a local Wikibase.
-We are thinking about making the overall ontology as well as the individual modules available as OWL files, also depending on feedback about possible usage scenarios. Flexible visualization of the ontology would be one of the benefits.
 
 ## Modeling approach & decisions
 We are not attempting to model the entire domain of literary history and historiography deductively, but rather based on our purpose to connect inductively the different data source types.
@@ -85,6 +89,10 @@ In the context of linking to the Wikidata cloud, we currently have several phase
 * importing the work items not yet available in Wikidata into Wikidata and also linking them to our MiMoTextBase. (future)
 
 An interesting model project for this approach is the [WeChangEd project](https://www.wechanged.ugent.be/). Beyond that we would also be happy to have the opportunity to link our data in the sense of Linked Open Data to further ressources.For some authority data we have already considered this (VIAF, GND e.g.)
+
+### Formal representation
+This repository addresses so far mainly the conceptual representation. The ontology is part of the MiMoTextBase and downloadable as an RDFdump for further use in a local Wikibase.
+We are thinking about making the overall ontology as well as the individual modules available as OWL files, also depending on feedback about possible usage scenarios. Flexible visualization of the ontology would be one of the benefits.
 
 ### Further interoperability & reuse
 We plan to further increase interoperability by a formal representation for different user groups: a) For users within the wikiverse, this will be done via 'entity schemes'. b) In the spirit of the general W3C standard, this will involve a representation of the ontology in OWL created with the ontology editor [Protégé](https://protege.stanford.edu/).
