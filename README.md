@@ -22,22 +22,21 @@ We structure the ontology in modules to increase interoperability, reuse possibi
 ## Modules
 The modules are heterogeneous in scope respectively coverage. Within the modules, all essential modeling decisions are represented and reflected.
 The functionality of Wikibase as well as conventions and standards in Wikidata are crucial for our modeling decisions. We have taken other standards into account where possible and will expand this in the future (see below).
-There are currently 8 completed modules, and another 3 in progress or planned:
+There are currently 11 completed modules:
 
-* Module 1: thematic statement
-* Module 2: spatial statement
+* Module 1: theme
+* Module 2: space
 * Module 3: narrative form
 * Module 4: literary work
 * Module 5: author
-* Module 6: mapping [under construction]
+* Module 6: mapping
 * Module 7: referencing
 * Module 8: versioning & publication
 * Module 9: terminology
-* Module 10: bibliography [under construction]
-* Module 11: scholarly work [planned]
+* Module 10: bibliography
+* Module 11: scholarly work
 
-These modules are related to and based on two pilot projects (1 & 2), a statement type that is central to our domain (3), our two central entity types or 'classes' (4 and 5), three further modules that represent central challenges and our approaches to solving them (6-7), as well as one for integrating the different source types including data sets (8) and a module that represents the modeling of our multilingual controlled vocabularies and depicts terminological decisions (9).
-Furthermore, two further modules are planned that address more detailed the different source types of MiMoText: a module on our main bibliographic source (10) and a module for the scholarly literature data (11). In the visualizations of the ontology version 1.0, in all modules the Q-items and properties are represented for which data are already available in the MiMoTextBase. In some cases we have highlighted extension plans for the near future in gray.
+These modules are related to and based on two pilot projects (1 & 2), a statement type that is central to our domain (3), our two central entity types or 'classes' (4 and 5), two further modules that represent central challenges and our approaches to solving them (6-7), as well as one for integrating the different source types including data sets (8) and a module that represents the modeling of our multilingual controlled vocabularies and depicts terminological decisions (9). Two further modules address more detailed the different source types of MiMoText: a module on our main bibliographic source (10) and a module for the scholarly work data (11). (In the visualizations of the ontology version 1.0, in all modules those Q-items and properties are represented for which data are already available in the MiMoTextBase. In some cases we have highlighted extension plans for the near future in gray.)
 
 **[Module overview and visualizations](https://github.com/MiMoText/ontology/blob/main/Modules%20overview.md)**
 
