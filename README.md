@@ -118,6 +118,12 @@ See also: [About MiMoTextBase](https://mimotext.github.io/MiMoTextBase_Tutorial/
 An ontology is not an ontology as long as it is only used in one project. We therefore see it rather as an ontology proposal. We would like to discuss our modeling decisions in exchange with colleagues from Computational Literary Studies as well as other fields of Digital Humanities in order to jointly develop the ontology for the community, i.e. a data model that can structure information in different projects and link them in the spirit of Linked Open Data.
 We would also like to get in closer contact with literary scholars to extend the modeling of the relevant types of statements we have identified.
 
+## Licence (CC-0)
+All data modeling is in the public domain and can be reused without restrictions. We don’t claim any copyright or other rights. If you use the ontology, for example in research or teaching, please reference this ontology using the citation suggestion below.
+
+## Citation Suggestion
+MiMoText ontology, edited by Maria Hinzmann, with contributions from Tinghui Duan, Anne Klee, Julia Röttgermann, Christof Schöch and Moritz Steffes. Release v0.1.0. Trier: TCDH, 2022. URL: https://github.com/MiMoText/ontology
+
 ## Bibliography
 * Arenas, Marcelo, Claudio Gutierrez, and Jorge Pérez. 2010. “On the Semantics of SPARQL.” In Semantic Web Information Management: A Model-Based Perspective, edited by Roberto de Virgilio, Fausto Giunchiglia, and Letizia Tanca, 281–307. Berlin, Heidelberg: Springer. https://doi.org/10.1007/978-3-642-04329-1_13.
 * Eells, Andrew, Cogan Shimizu, Lu Zhou, Pascal Hitzler, and Dean Rehberger. 2021. “Aligning Patterns to the Wikibase Model.” In Http://Ontologydesignpatterns.Org/Wiki/WOP:2021. https://daselab.cs.ksu.edu/sites/default/files/WOP2021_paper_4.pdf.
