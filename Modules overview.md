@@ -50,5 +50,5 @@
 
 ---
 
-## Module 10: Bibliography
+## Module 11: Scholarly work
 ![!Module 11](https://github.com/MiMoText/ontology/blob/main/module11_scholarly-work/module11_scholarly-work.png "Module 11: Scholarly-work")
