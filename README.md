@@ -66,31 +66,27 @@ For the provision of data, we follow open science principles, such as the public
 ### Wikibase ecosystem
 We understand our [MiMoTextBase](https://docs.mimotext.uni-trier.de) as part of the Wikibase ecosystem with the decision for a local Wikibase instance. The infrastructure of a local Wikibase has a significant influence on the data model and therefore also on the query possibilities.
 
-### Prefixes (status quo)
-Currently we still have the Wikibase "default settings", so we have exactly the prefixes for our MiMoTextBase that Wikidata uses. We have defined these for our MiMoTextBase, i.e. a local Wikibase instance, as follows:
+### Prefixes 
+Regarding the prefixes, we have decided to stay within the Wikidata logic of the labeling to increase usability for those who are already familiar with the Wikidata prefixes (e.g. 'mmd' for the 'entities' with the prefix 'wd', 'mmdt' for the 'properties' instead of 'wdt').
 
-- prefix wd: http://data.mimotext.uni-trier.de/entity/
-- prefix wdt: http://data.mimotext.uni-trier.de/prop/direct/
-- prefix ps: http://data.mimotext.uni-trier.de/prop/statement/
-- prefix pr: http://data.mimotext.uni-trier.de/prop/reference/
-- prefix p: http://data.mimotext.uni-trier.de/prop
+- prefix mmd: http://data.mimotext.uni-trier.de/entity/
+- prefix mmdt: http://data.mimotext.uni-trier.de/prop/direct/
+- prefix mmps: http://data.mimotext.uni-trier.de/prop/statement/
+- prefix mmpr: http://data.mimotext.uni-trier.de/prop/reference/
 
 For further prefixes and a visualization of the Wikidata / Wikibase data model see: https://en.wikibooks.org/wiki/SPARQL/WIKIDATA_Qualifiers,_References_and_Ranks#/media/File:SPARQL_data_representation.png
 
-## Future work
-### Prefixes (future plans)
-Regarding the prefixes, we have decided to change in the near future the prefixes currently available in our local Wikibase, which correspond to those of Wikidata, so that, among other things, no confusion arises with 'federated queries'. We will stay within the Wikidata logic of the labeling to increase usability for those who are already familiar with the Wikidata prefixes (e.g. 'mmd' for the 'entities' with the prefix 'wd', 'mmdt' for the 'properties' instead of 'wdt').
 
 ### Linking with the Wikidata-Graph
 In the context of linking to the Wikidata cloud, we currently have several phases planned in the spirit of the 'Wikibase ecosystem', although we will probably not be able to realize all of them in the current project phase:
 * mapping of thematic and spatial concepts in our controlled vocabularies (done).
 * mapping of properties and classes (done)
 * mapping of author and work items (in progress)
-* creation of a MiMoText ID in Wikidata (future)
-* linking the literary works we could map from Wikidata to the work items in our MiMoTextBase (future)
-* importing the work items not yet available in Wikidata into Wikidata and also linking them to our MiMoTextBase. (future)
+* creation of a MiMoText ID in Wikidata (done)
+* linking the literary works we could map from Wikidata to the work items in our MiMoTextBase (in progress)
+* importing the work items not yet available in Wikidata into Wikidata and also linking them to our MiMoTextBase. (starting soon)
 
-An interesting model project for this approach is the [WeChangEd project](https://www.wechanged.ugent.be/). Beyond that we would also be happy to have the opportunity to link our data in the sense of Linked Open Data to further ressources.For some authority data we have already considered this (VIAF, GND e.g.)
+An interesting model project for this approach is the [WeChangEd project](https://www.wechanged.ugent.be/). Beyond that we would also be happy to have the opportunity to link our data in the sense of Linked Open Data to further ressources. For some authority data we have already considered this (VIAF, GND e.g.)
 
 ### Formal representation
 This repository addresses so far mainly the conceptual representation. The ontology is part of the MiMoTextBase and downloadable as an RDFdump for further use in a local Wikibase.
