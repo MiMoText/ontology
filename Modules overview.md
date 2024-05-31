@@ -57,3 +57,8 @@
 
 ## Module 12: Relations (literary work)
 ![!Module 12](https://github.com/MiMoText/ontology/blob/main/module12_relations_lit-work/module12_relations_lit-work.png "Module 12: Relations (literary work)")
+
+---
+
+## Module 13: Federation
+![!Module 13](https://github.com/MiMoText/ontology/blob/main/module13_federation/module13_federation.png "Module 13: Federation")
