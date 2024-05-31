@@ -1,14 +1,14 @@
 <!-- Tufts VUE 3.3.0 concept-map (module10_bibliography.vue) 2023-12-27 -->
 <!-- Tufts VUE: http://vue.tufts.edu/ -->
 <!-- Do Not Remove: VUE mapping @version(1.1) jar:file:/C:/Program%20Files%20(x86)/VUE/VUE.jar!/tufts/vue/resources/lw_mapping_1_1.xml -->
-<!-- Do Not Remove: Saved date Wed Dec 27 14:35:44 CET 2023 by hinzmannm on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
+<!-- Do Not Remove: Saved date Wed Dec 27 14:35:30 CET 2023 by hinzmannm on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
 <!-- Do Not Remove: Saving version @(#)VUE: built October 8 2015 at 1658 by tomadm on Linux 2.6.32-504.23.4.el6.x86_64 i386 JVM 1.7.0_21-b11(bits=32) -->
 <?xml version="1.0" encoding="US-ASCII"?>
 <LW-MAP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="none" ID="0"
     label="module10_bibliography.vue" created="1660123154985" x="0.0"
     y="0.0" width="1.4E-45" height="1.4E-45" strokeWidth="0.0" autoSized="false">
-    <resource referenceCreated="1703684144667" size="44378"
+    <resource referenceCreated="1703684130743" size="44378"
         spec="C:\Users\hinzmannm\Documents\Github\ontology\module10_bibliography\module10_bibliography.vue"
         type="1" xsi:type="URLResource">
         <title>module10_bibliography.vue</title>

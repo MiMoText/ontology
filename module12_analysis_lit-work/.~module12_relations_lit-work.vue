@@ -1,18 +1,18 @@
-<!-- Tufts VUE 3.3.0 concept-map (module12_relations_V3.vue) 2023-09-28 -->
+<!-- Tufts VUE 3.3.0 concept-map (module12_relations_lit-work.vue) 2023-11-23 -->
 <!-- Tufts VUE: http://vue.tufts.edu/ -->
 <!-- Do Not Remove: VUE mapping @version(1.1) jar:file:/C:/Program%20Files%20(x86)/VUE/VUE.jar!/tufts/vue/resources/lw_mapping_1_1.xml -->
-<!-- Do Not Remove: Saved date Thu Sep 28 13:32:52 CEST 2023 by hinzmannm on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
+<!-- Do Not Remove: Saved date Thu Nov 23 12:31:29 CET 2023 by hinzmannm on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
 <!-- Do Not Remove: Saving version @(#)VUE: built October 8 2015 at 1658 by tomadm on Linux 2.6.32-504.23.4.el6.x86_64 i386 JVM 1.7.0_21-b11(bits=32) -->
 <?xml version="1.0" encoding="US-ASCII"?>
 <LW-MAP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="none" ID="0"
-    label="module12_relations_V3.vue" created="1694693787802" x="0.0"
-    y="0.0" width="1.4E-45" height="1.4E-45" strokeWidth="0.0" autoSized="false">
-    <resource referenceCreated="1695900772126"
-        spec="C:\Users\hinzmannm\Documents\Seafile\MiMoText\Modellierungen\MODULES\module12_relations\module12_relations_V3.vue"
+    label="module12_relations_lit-work.vue" created="1694693787802"
+    x="0.0" y="0.0" width="1.4E-45" height="1.4E-45" strokeWidth="0.0" autoSized="false">
+    <resource referenceCreated="1700739089381" size="43562"
+        spec="C:\Users\hinzmannm\Documents\Github\ontology\module12_relations_lit-work\module12_relations_lit-work.vue"
         type="1" xsi:type="URLResource">
-        <title>module12_relations_V3.vue</title>
-        <property key="File" value="C:\Users\hinzmannm\Documents\Seafile\MiMoText\Modellierungen\MODULES\module12_relations\module12_relations_V3.vue"/>
+        <title>module12_relations_lit-work.vue</title>
+        <property key="File" value="C:\Users\hinzmannm\Documents\Github\ontology\module12_relations_lit-work\module12_relations_lit-work.vue"/>
     </resource>
     <fillColor>#FFFFFF</fillColor>
     <strokeColor>#404040</strokeColor>
@@ -426,7 +426,7 @@
         autoSized="true" xsi:type="node">
         <fillColor>#00000000</fillColor>
         <strokeColor>#000000</strokeColor>
-        <textColor>#000000</textColor>
+        <textColor>#EA2218</textColor>
         <font>Arial-plain-24</font>
         <URIString>http://vue.tufts.edu/rdf/resource/93d36880a9feed2d013691e811e8399d</URIString>
         <shape xsi:type="ellipse"/>
@@ -482,8 +482,8 @@
         <ID2 xsi:type="node">9</ID2>
     </child>
     <child ID="50" label="[#(co)occurence in text]" layerID="1"
-        created="1694695345453" x="1046.3381" y="-10501.979"
-        width="290.0" height="461.43066" strokeWidth="1.0"
+        created="1694695345453" x="1046.8381" y="-10501.979"
+        width="289.0" height="461.43066" strokeWidth="1.0"
         autoSized="false" controlCount="0" arrowState="2" xsi:type="link">
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
@@ -694,29 +694,6 @@
         <ID2 xsi:type="node">63</ID2>
         <ctrlPoint0 x="1264.7439" y="-11345.061" xsi:type="point"/>
     </child>
-    <child ID="73" layerID="1" created="1694696279416" x="1046.0471"
-        y="-11326.057" width="190.85876" height="3.1552734"
-        strokeWidth="1.0" autoSized="false" controlCount="0"
-        arrowState="2" xsi:type="link">
-        <strokeColor>#000000</strokeColor>
-        <textColor>#000000</textColor>
-        <font>Arial-plain-28</font>
-        <URIString>http://vue.tufts.edu/rdf/resource/93d36880a9feed2d013691e849f84efc</URIString>
-        <point1 x="1046.5471" y="-11323.4"/>
-        <point2 x="1236.4059" y="-11325.556"/>
-        <ID1 xsi:type="link">72</ID1>
-        <ID2 xsi:type="node">74</ID2>
-    </child>
-    <child ID="74" label="[#stylometric distance value]" layerID="1"
-        created="1694696286853" x="1236.4059" y="-11364.599"
-        width="360.0" height="74.0" strokeWidth="1.0" autoSized="false" xsi:type="node">
-        <fillColor>#00000000</fillColor>
-        <strokeColor>#000000</strokeColor>
-        <textColor>#000000</textColor>
-        <font>Arial-plain-28</font>
-        <URIString>http://vue.tufts.edu/rdf/resource/93d36880a9feed2d013691e8b927653e</URIString>
-        <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
-    </child>
     <child ID="75" label="[#nPMI&#xa;(normalization &#xa;corpus level]"
         layerID="1" created="1694696414790" x="1441.8274"
         y="-10251.3125" width="193.0" height="107.0" strokeWidth="1.0"
@@ -786,12 +763,59 @@
         <ID1 xsi:type="node">81</ID1>
         <ID2 xsi:type="node">71</ID2>
     </child>
+    <child ID="85" label="[quantity: stylometric&#xa; distance value]"
+        layerID="1" created="1700734595218" x="1949.9615" y="-11395.2"
+        width="265.0" height="74.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
+        <fillColor>#00000000</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-28</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/fbf3040b88c7041a00eb5e1fa08c8846</URIString>
+        <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
+    </child>
+    <child ID="86" label="stylometric distance &#xa;value (P52)"
+        layerID="1" created="1700734599313" x="1330.0897" y="-11406.173"
+        width="344.8" height="121.8" strokeWidth="1.0" strokeStyle="4"
+        autoSized="true" xsi:type="node">
+        <fillColor>#00000000</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#0877C0</textColor>
+        <font>Arial-bold-28</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/fbf3040c88c7041a00eb5e1f7efc06f4</URIString>
+        <shape xsi:type="ellipse"/>
+    </child>
+    <child ID="88" label="rdfs:domain=&#xa;statement / claim"
+        layerID="1" created="1700734632468" x="1046.0471" y="-11359.243"
+        width="286.2799" height="58.0" strokeWidth="1.0"
+        autoSized="false" controlCount="0" arrowState="1" xsi:type="link">
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-24</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/fbf3040c88c7041a00eb5e1f85469e89</URIString>
+        <point1 x="1331.827" y="-11337.086"/>
+        <point2 x="1046.5471" y="-11323.4"/>
+        <ID1 xsi:type="node">86</ID1>
+        <ID2 xsi:type="link">72</ID2>
+    </child>
+    <child ID="89" label="rdfs:range" layerID="1"
+        created="1700734697774" x="1673.8422" y="-11366.674"
+        width="276.6194" height="29.0" strokeWidth="1.0"
+        autoSized="false" controlCount="0" arrowState="2" xsi:type="link">
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-24</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/fbf3040d88c7041a00eb5e1fb77d5444</URIString>
+        <point1 x="1674.3422" y="-11349.103"/>
+        <point2 x="1949.9615" y="-11355.246"/>
+        <ID1 xsi:type="node">86</ID1>
+        <ID2 xsi:type="node">85</ID2>
+    </child>
     <layer ID="1" label="Layer 1" created="1694693787802" x="0.0"
         y="0.0" width="1.4E-45" height="1.4E-45" strokeWidth="0.0" autoSized="false">
         <URIString>http://vue.tufts.edu/rdf/resource/93d36890a9feed2d013691e80228453d</URIString>
     </layer>
-    <userZoom>0.48208421594091394</userZoom>
-    <userOrigin x="-473.9521" y="-5686.1133"/>
+    <userZoom>0.4362962134168758</userZoom>
+    <userOrigin x="-518.4069" y="-5228.92"/>
     <presentationBackground>#202020</presentationBackground>
     <PathwayList currentPathway="0" revealerIndex="-1">
         <pathway ID="0" label="Unbenannter Pfad" created="1694693787802"
@@ -843,6 +867,6 @@
     </PathwayList>
     <date>2023-09-14</date>
     <modelVersion>6</modelVersion>
-    <saveLocation>C:\Users\hinzmannm\Documents\Seafile\MiMoText\Modellierungen\MODULES\module12_relations</saveLocation>
-    <saveFile>C:\Users\hinzmannm\Documents\Seafile\MiMoText\Modellierungen\MODULES\module12_relations\module12_relations_V3.vue</saveFile>
+    <saveLocation>C:\Users\hinzmannm\Documents\Github\ontology\module12_relations_lit-work</saveLocation>
+    <saveFile>C:\Users\hinzmannm\Documents\Github\ontology\module12_relations_lit-work\module12_relations_lit-work.vue</saveFile>
 </LW-MAP>
