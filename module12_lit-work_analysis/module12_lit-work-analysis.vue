@@ -1,18 +1,18 @@
-<!-- Tufts VUE 3.3.0 concept-map (module12_analysis_lit-work.vue) 2023-12-27 -->
+<!-- Tufts VUE 3.3.0 concept-map (module12_lit-work-analysis.vue) 2024-06-02 -->
 <!-- Tufts VUE: http://vue.tufts.edu/ -->
 <!-- Do Not Remove: VUE mapping @version(1.1) jar:file:/C:/Program%20Files%20(x86)/VUE/VUE.jar!/tufts/vue/resources/lw_mapping_1_1.xml -->
-<!-- Do Not Remove: Saved date Wed Dec 27 14:23:52 CET 2023 by hinzmannm on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
+<!-- Do Not Remove: Saved date Sun Jun 02 20:14:17 CEST 2024 by hinzmannm on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
 <!-- Do Not Remove: Saving version @(#)VUE: built October 8 2015 at 1658 by tomadm on Linux 2.6.32-504.23.4.el6.x86_64 i386 JVM 1.7.0_21-b11(bits=32) -->
 <?xml version="1.0" encoding="US-ASCII"?>
 <LW-MAP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="none" ID="0"
-    label="module12_analysis_lit-work.vue" created="1694693787802"
+    label="module12_lit-work-analysis.vue" created="1694693787802"
     x="0.0" y="0.0" width="1.4E-45" height="1.4E-45" strokeWidth="0.0" autoSized="false">
-    <resource referenceCreated="1703683432329" size="44795"
-        spec="C:\Users\hinzmannm\Documents\Github\ontology\module12_analysis_lit-work\module12_analysis_lit-work.vue"
+    <resource referenceCreated="1717352057139"
+        spec="C:\Users\hinzmannm\Documents\Github\ontology\module12_analysis_lit-work\module12_lit-work-analysis.vue"
         type="1" xsi:type="URLResource">
-        <title>module12_analysis_lit-work.vue</title>
-        <property key="File" value="C:\Users\hinzmannm\Documents\Github\ontology\module12_analysis_lit-work\module12_analysis_lit-work.vue"/>
+        <title>module12_lit-work-analysis.vue</title>
+        <property key="File" value="C:\Users\hinzmannm\Documents\Github\ontology\module12_analysis_lit-work\module12_lit-work-analysis.vue"/>
     </resource>
     <fillColor>#FFFFFF</fillColor>
     <strokeColor>#404040</strokeColor>
@@ -543,8 +543,8 @@
         <ID2 xsi:type="node">127</ID2>
     </child>
     <child ID="126" label="instance of&#xa;(P2)" layerID="1"
-        created="1703680455593" x="1608.1527" y="-11565.426"
-        width="118.0" height="98.586914" strokeWidth="1.0"
+        created="1703680455593" x="1608.6527" y="-11565.426"
+        width="117.0" height="98.586914" strokeWidth="1.0"
         autoSized="false" controlCount="0" arrowState="2" xsi:type="link">
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
@@ -1016,8 +1016,8 @@
         <shape xsi:type="ellipse"/>
     </child>
     <child ID="190" label="instance of&#xa;(P2)" layerID="1"
-        created="1703682542711" x="962.15875" y="-11526.918"
-        width="118.0" height="108.46289" strokeWidth="1.0"
+        created="1703682542711" x="962.65875" y="-11526.918"
+        width="117.0" height="108.46289" strokeWidth="1.0"
         autoSized="false" controlCount="0" arrowState="2" xsi:type="link">
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
@@ -1249,8 +1249,8 @@
         y="0.0" width="1.4E-45" height="1.4E-45" strokeWidth="0.0" autoSized="false">
         <URIString>http://vue.tufts.edu/rdf/resource/93d36890a9feed2d013691e80228453d</URIString>
     </layer>
-    <userZoom>0.4458184346092611</userZoom>
-    <userOrigin x="-551.29535" y="-5369.0825"/>
+    <userZoom>0.4403663986050894</userZoom>
+    <userOrigin x="-558.0734" y="-5234.3306"/>
     <presentationBackground>#202020</presentationBackground>
     <PathwayList currentPathway="0" revealerIndex="-1">
         <pathway ID="0" label="Unbenannter Pfad" created="1694693787802"
@@ -1303,5 +1303,5 @@
     <date>2023-09-14</date>
     <modelVersion>6</modelVersion>
     <saveLocation>C:\Users\hinzmannm\Documents\Github\ontology\module12_analysis_lit-work</saveLocation>
-    <saveFile>C:\Users\hinzmannm\Documents\Github\ontology\module12_analysis_lit-work\module12_analysis_lit-work.vue</saveFile>
+    <saveFile>C:\Users\hinzmannm\Documents\Github\ontology\module12_analysis_lit-work\module12_lit-work-analysis.vue</saveFile>
 </LW-MAP>

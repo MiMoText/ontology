@@ -51,12 +51,12 @@
 ---
 
 ## Module 11: Scholarly work
-![!Module 11](https://github.com/MiMoText/ontology/blob/main/module11_scholarly-work/module11_scholarly-work.png "Module 11: Scholarly-work")
+![!Module 11](https://github.com/MiMoText/ontology/blob/main/module11_scholarly-work/module11_scholarly-work.png "Module 11: Scholarly work")
 
 ---
 
-## Module 12: Relations (literary work)
-![!Module 12](https://github.com/MiMoText/ontology/blob/main/module12_relations_lit-work/module12_relations_lit-work.png "Module 12: Relations (literary work)")
+## Module 12: Literary work analysis
+![!Module 12](https://github.com/MiMoText/ontology/blob/main/module12_lit-work_analysis/module12_lit-work_analysis.png "Module 12: Literary work analysis")
 
 ---
 
