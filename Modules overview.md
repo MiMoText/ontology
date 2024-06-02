@@ -56,7 +56,7 @@
 ---
 
 ## Module 12: Literary work analysis
-![!Module 12](https://github.com/MiMoText/ontology/blob/main/module12_lit-work_analysis/module12_lit-work_analysis.png "Module 12: Literary work analysis")
+![!Module 12](https://github.com/MiMoText/ontology/blob/main/module12_lit-work_analysis/module12_lit-work-analysis.png "Module 12: Literary work analysis")
 
 ---
 
