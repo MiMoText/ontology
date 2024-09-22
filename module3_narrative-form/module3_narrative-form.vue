@@ -1,18 +1,18 @@
-<!-- Tufts VUE 3.3.0 concept-map (module3_narrative-form.vue) 2022-08-02 -->
+<!-- Tufts VUE 3.3.0 concept-map (module3_narrative-form.vue) 2024-09-11 -->
 <!-- Tufts VUE: http://vue.tufts.edu/ -->
 <!-- Do Not Remove: VUE mapping @version(1.1) jar:file:/C:/Program%20Files%20(x86)/VUE/VUE.jar!/tufts/vue/resources/lw_mapping_1_1.xml -->
-<!-- Do Not Remove: Saved date Tue Aug 02 07:33:13 CEST 2022 by hinzmannm on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
+<!-- Do Not Remove: Saved date Wed Sep 11 16:09:00 CEST 2024 by hinzmannm on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
 <!-- Do Not Remove: Saving version @(#)VUE: built October 8 2015 at 1658 by tomadm on Linux 2.6.32-504.23.4.el6.x86_64 i386 JVM 1.7.0_21-b11(bits=32) -->
 <?xml version="1.0" encoding="US-ASCII"?>
 <LW-MAP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="none" ID="0"
     label="module3_narrative-form.vue" created="1599579702200" x="0.0"
     y="0.0" width="3551.779" height="1194.9597" strokeWidth="0.0" autoSized="false">
-    <resource referenceCreated="1659418393257" size="26892"
-        spec="C:\Users\hinzmannm\Documents\Github\ontology\module3_narrative form\module3_narrative-form.vue"
+    <resource referenceCreated="1726063740307" size="23909"
+        spec="C:\Users\hinzmannm\Documents\Github\ontology\module3_narrative-form\module3_narrative-form.vue"
         type="1" xsi:type="URLResource">
         <title>module3_narrative-form.vue</title>
-        <property key="File" value="C:\Users\hinzmannm\Documents\Github\ontology\module3_narrative form\module3_narrative-form.vue"/>
+        <property key="File" value="C:\Users\hinzmannm\Documents\Github\ontology\module3_narrative-form\module3_narrative-form.vue"/>
     </resource>
     <fillColor>#FFFFFF</fillColor>
     <strokeColor>#404040</strokeColor>
@@ -89,7 +89,7 @@
         <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
     </child>
     <child ID="390" label="MODULE 3: narrative form" layerID="1"
-        created="1653059746667" x="-673.6279" y="-507.05243"
+        created="1653059746667" x="-691.8435" y="-519.6632"
         width="496.9672" height="91.69104" strokeWidth="1.0"
         autoSized="false" xsi:type="node">
         <fillColor>#EEEEEE</fillColor>
@@ -214,38 +214,27 @@
         <shape xsi:type="ellipse"/>
     </child>
     <child ID="460" label="rdfs:range" layerID="1"
-        created="1658563870681" x="-1241.2043" y="-331.37924"
-        width="197.19519" height="59.237732" strokeWidth="1.0"
+        created="1658563870681" x="-865.0912" y="-339.88965"
+        width="292.50763" height="53.889587" strokeWidth="1.0"
         autoSized="false" controlCount="0" arrowState="2" xsi:type="link">
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-24</font>
         <URIString>http://vue.tufts.edu/rdf/resource/2a292248c0a8b22300870aa4ed9ceb6d</URIString>
-        <point1 x="-1044.509" y="-330.87924"/>
-        <point2 x="-1240.7042" y="-272.6415"/>
+        <point1 x="-864.59125" y="-339.38965"/>
+        <point2 x="-573.0836" y="-286.50006"/>
         <ID1 xsi:type="node">459</ID1>
         <ID2 xsi:type="node">462</ID2>
     </child>
     <child ID="462"
         label="[Bibliographie du genre &#xa;romanesque fran&#xe7;ais]"
-        layerID="1" created="1658563870681" x="-1517.723" y="-291.44214"
+        layerID="1" created="1658563870681" x="-591.53235" y="-315.2625"
         width="316.2" height="108.2" strokeWidth="1.0" autoSized="true" xsi:type="node">
         <fillColor>#00000000</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-24</font>
         <URIString>http://vue.tufts.edu/rdf/resource/2a292248c0a8b22300870aa41a478a2a</URIString>
-        <shape xsi:type="ellipse"/>
-    </child>
-    <child ID="463" label="[scholarly&#xa; literature]" layerID="1"
-        created="1658563870681" x="-1416.3004" y="-412.71243"
-        width="149.8" height="91.799995" strokeWidth="1.0"
-        autoSized="true" xsi:type="node">
-        <fillColor>#00000000</fillColor>
-        <strokeColor>#A6A6A6</strokeColor>
-        <textColor>#7F7F7F</textColor>
-        <font>Arial-plain-24</font>
-        <URIString>http://vue.tufts.edu/rdf/resource/2a292248c0a8b22300870aa486361a7e</URIString>
         <shape xsi:type="ellipse"/>
     </child>
     <child ID="465" label="rdfs:domain=&#xa;statement" layerID="1"
@@ -261,19 +250,6 @@
         <ID1 xsi:type="link">420</ID1>
         <ID2 xsi:type="node">459</ID2>
     </child>
-    <child ID="466" label="rdfs:range" layerID="1"
-        created="1658563907685" x="-1267.1675" y="-376.44928"
-        width="209.9668" height="29.0" strokeWidth="1.0"
-        autoSized="false" controlCount="0" arrowState="2" xsi:type="link">
-        <strokeColor>#A6A6A6</strokeColor>
-        <textColor>#7F7F7F</textColor>
-        <font>Arial-plain-24</font>
-        <URIString>http://vue.tufts.edu/rdf/resource/2a292248c0a8b22300870aa49bad92e4</URIString>
-        <point1 x="-1057.7007" y="-359.114"/>
-        <point2 x="-1266.6675" y="-364.78452"/>
-        <ID1 xsi:type="node">459</ID1>
-        <ID2 xsi:type="node">463</ID2>
-    </child>
     <child ID="467" label="stated in" layerID="1"
         created="1658563981370" x="-73.515656" y="-409.17725"
         width="199.0" height="103.5" strokeWidth="1.0" strokeStyle="4"
@@ -286,39 +262,17 @@
         <shape xsi:type="ellipse"/>
     </child>
     <child ID="468" label="rdfs:range" layerID="1"
-        created="1658563981370" x="107.93961" y="-328.9607"
-        width="192.39903" height="68.238434" strokeWidth="1.0"
+        created="1658563981370" x="-299.23892" y="-338.59686"
+        width="233.47032" height="49.71112" strokeWidth="1.0"
         autoSized="false" controlCount="0" arrowState="2" xsi:type="link">
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-24</font>
         <URIString>http://vue.tufts.edu/rdf/resource/2a292249c0a8b22300870aa4d112c1bb</URIString>
-        <point1 x="108.43962" y="-328.46072"/>
-        <point2 x="299.83865" y="-261.2223"/>
+        <point1 x="-66.2686" y="-338.09686"/>
+        <point2 x="-298.73892" y="-289.38574"/>
         <ID1 xsi:type="node">467</ID1>
-        <ID2 xsi:type="node">469</ID2>
-    </child>
-    <child ID="469"
-        label="[Bibliographie du genre &#xa;romanesque fran&#xe7;ais]"
-        layerID="1" created="1658563981370" x="251.92471" y="-276.61395"
-        width="316.2" height="108.2" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#00000000</fillColor>
-        <strokeColor>#000000</strokeColor>
-        <textColor>#000000</textColor>
-        <font>Arial-plain-24</font>
-        <URIString>http://vue.tufts.edu/rdf/resource/2a292249c0a8b22300870aa47f29df51</URIString>
-        <shape xsi:type="ellipse"/>
-    </child>
-    <child ID="470" label="[scholarly&#xa; literature]" layerID="1"
-        created="1658563981370" x="338.8846" y="-390.93094"
-        width="149.8" height="91.799995" strokeWidth="1.0"
-        autoSized="true" xsi:type="node">
-        <fillColor>#00000000</fillColor>
-        <strokeColor>#A6A6A6</strokeColor>
-        <textColor>#7F7F7F</textColor>
-        <font>Arial-plain-24</font>
-        <URIString>http://vue.tufts.edu/rdf/resource/2a292249c0a8b22300870aa4fb1ee21e</URIString>
-        <shape xsi:type="ellipse"/>
+        <ID2 xsi:type="node">462</ID2>
     </child>
     <child ID="471" label="rdfs:domain=&#xa;statement" layerID="1"
         created="1658563981370" x="-45.8959" y="-306.21326"
@@ -332,19 +286,6 @@
         <point2 x="25.299757" y="-305.71326"/>
         <ID1 xsi:type="link">396</ID1>
         <ID2 xsi:type="node">467</ID2>
-    </child>
-    <child ID="472" label="rdfs:range" layerID="1"
-        created="1658563981370" x="124.67649" y="-365.3377"
-        width="214.90489" height="29.0" strokeWidth="1.0"
-        autoSized="false" controlCount="0" arrowState="2" xsi:type="link">
-        <strokeColor>#A6A6A6</strokeColor>
-        <textColor>#7F7F7F</textColor>
-        <font>Arial-plain-24</font>
-        <URIString>http://vue.tufts.edu/rdf/resource/2a292249c0a8b22300870aa49fcf3f33</URIString>
-        <point1 x="125.1765" y="-354.2565"/>
-        <point2 x="339.0814" y="-347.41888"/>
-        <ID1 xsi:type="node">467</ID1>
-        <ID2 xsi:type="node">470</ID2>
     </child>
     <child ID="473" label="[string: narrative&#xa;form label]"
         layerID="1" created="1658564059911" x="-1518.3131"
@@ -511,6 +452,6 @@
     </PathwayList>
     <date>2020-09-08</date>
     <modelVersion>6</modelVersion>
-    <saveLocation>C:\Users\hinzmannm\Documents\Github\ontology\module3_narrative form</saveLocation>
-    <saveFile>C:\Users\hinzmannm\Documents\Github\ontology\module3_narrative form\module3_narrative-form.vue</saveFile>
+    <saveLocation>C:\Users\hinzmannm\Documents\Github\ontology\module3_narrative-form</saveLocation>
+    <saveFile>C:\Users\hinzmannm\Documents\Github\ontology\module3_narrative-form\module3_narrative-form.vue</saveFile>
 </LW-MAP>

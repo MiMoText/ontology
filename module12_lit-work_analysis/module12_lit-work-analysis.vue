@@ -1,18 +1,19 @@
-<!-- Tufts VUE 3.3.0 concept-map (module12_lit-work-analysis.vue) 2024-06-02 -->
+<!-- Tufts VUE 3.3.0 concept-map (module12_lit-work-analysis.vue) 2024-09-11 -->
 <!-- Tufts VUE: http://vue.tufts.edu/ -->
 <!-- Do Not Remove: VUE mapping @version(1.1) jar:file:/C:/Program%20Files%20(x86)/VUE/VUE.jar!/tufts/vue/resources/lw_mapping_1_1.xml -->
-<!-- Do Not Remove: Saved date Sun Jun 02 20:14:17 CEST 2024 by hinzmannm on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
+<!-- Do Not Remove: Saved date Wed Sep 11 16:09:26 CEST 2024 by hinzmannm on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
 <!-- Do Not Remove: Saving version @(#)VUE: built October 8 2015 at 1658 by tomadm on Linux 2.6.32-504.23.4.el6.x86_64 i386 JVM 1.7.0_21-b11(bits=32) -->
 <?xml version="1.0" encoding="US-ASCII"?>
 <LW-MAP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="none" ID="0"
     label="module12_lit-work-analysis.vue" created="1694693787802"
-    x="0.0" y="0.0" width="1.4E-45" height="1.4E-45" strokeWidth="0.0" autoSized="false">
-    <resource referenceCreated="1717352057139"
-        spec="C:\Users\hinzmannm\Documents\Github\ontology\module12_analysis_lit-work\module12_lit-work-analysis.vue"
+    x="0.0" y="0.0" width="4138.456" height="1998.3359"
+    strokeWidth="0.0" autoSized="false">
+    <resource referenceCreated="1726063766151" size="66978"
+        spec="C:\Users\hinzmannm\Documents\Github\ontology\module12_lit-work_analysis\module12_lit-work-analysis.vue"
         type="1" xsi:type="URLResource">
         <title>module12_lit-work-analysis.vue</title>
-        <property key="File" value="C:\Users\hinzmannm\Documents\Github\ontology\module12_analysis_lit-work\module12_lit-work-analysis.vue"/>
+        <property key="File" value="C:\Users\hinzmannm\Documents\Github\ontology\module12_lit-work_analysis\module12_lit-work-analysis.vue"/>
     </resource>
     <fillColor>#FFFFFF</fillColor>
     <strokeColor>#404040</strokeColor>
@@ -1249,7 +1250,7 @@
         y="0.0" width="1.4E-45" height="1.4E-45" strokeWidth="0.0" autoSized="false">
         <URIString>http://vue.tufts.edu/rdf/resource/93d36890a9feed2d013691e80228453d</URIString>
     </layer>
-    <userZoom>0.4403663986050894</userZoom>
+    <userZoom>1.0</userZoom>
     <userOrigin x="-558.0734" y="-5234.3306"/>
     <presentationBackground>#202020</presentationBackground>
     <PathwayList currentPathway="0" revealerIndex="-1">
@@ -1302,6 +1303,6 @@
     </PathwayList>
     <date>2023-09-14</date>
     <modelVersion>6</modelVersion>
-    <saveLocation>C:\Users\hinzmannm\Documents\Github\ontology\module12_analysis_lit-work</saveLocation>
-    <saveFile>C:\Users\hinzmannm\Documents\Github\ontology\module12_analysis_lit-work\module12_lit-work-analysis.vue</saveFile>
+    <saveLocation>C:\Users\hinzmannm\Documents\Github\ontology\module12_lit-work_analysis</saveLocation>
+    <saveFile>C:\Users\hinzmannm\Documents\Github\ontology\module12_lit-work_analysis\module12_lit-work-analysis.vue</saveFile>
 </LW-MAP>

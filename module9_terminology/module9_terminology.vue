@@ -1,14 +1,14 @@
-<!-- Tufts VUE 3.3.0 concept-map (module9_terminology.vue) 2022-08-02 -->
+<!-- Tufts VUE 3.3.0 concept-map (module9_terminology.vue) 2024-09-11 -->
 <!-- Tufts VUE: http://vue.tufts.edu/ -->
 <!-- Do Not Remove: VUE mapping @version(1.1) jar:file:/C:/Program%20Files%20(x86)/VUE/VUE.jar!/tufts/vue/resources/lw_mapping_1_1.xml -->
-<!-- Do Not Remove: Saved date Tue Aug 02 08:09:54 CEST 2022 by hinzmannm on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
+<!-- Do Not Remove: Saved date Wed Sep 11 16:09:16 CEST 2024 by hinzmannm on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
 <!-- Do Not Remove: Saving version @(#)VUE: built October 8 2015 at 1658 by tomadm on Linux 2.6.32-504.23.4.el6.x86_64 i386 JVM 1.7.0_21-b11(bits=32) -->
 <?xml version="1.0" encoding="US-ASCII"?>
 <LW-MAP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="none" ID="0"
     label="module9_terminology.vue" created="1599579702200" x="0.0"
     y="0.0" width="3551.779" height="1194.9597" strokeWidth="0.0" autoSized="false">
-    <resource referenceCreated="1659420594332" size="31590"
+    <resource referenceCreated="1726063756436" size="31508"
         spec="C:\Users\hinzmannm\Documents\Github\ontology\module9_terminology\module9_terminology.vue"
         type="1" xsi:type="URLResource">
         <title>module9_terminology.vue</title>
@@ -126,21 +126,21 @@
         <shape xsi:type="ellipse"/>
     </child>
     <child ID="374" label="described at URL" layerID="1"
-        created="1653058463731" x="740.4239" y="-131.46094"
-        width="216.0" height="80.33984" strokeWidth="1.0"
+        created="1653058463731" x="734.0327" y="-131.53027"
+        width="216.0" height="89.11328" strokeWidth="1.0"
         autoSized="false" controlCount="0" arrowState="2" xsi:type="link">
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-28</font>
         <URIString>http://vue.tufts.edu/rdf/resource/e2082f54c0a8b223013cb8df9ef96e31</URIString>
-        <point1 x="848.9684" y="-130.96094"/>
-        <point2 x="847.8794" y="-51.621094"/>
+        <point1 x="846.156" y="-131.03027"/>
+        <point2 x="837.9094" y="-42.916992"/>
         <ID1 xsi:type="node">373</ID1>
         <ID2 xsi:type="node">391</ID2>
     </child>
     <child ID="391"
         label="https://github.com/MiMoText/vocabularies[...]"
-        layerID="1" created="1653060491887" x="565.0981" y="-51.622368"
+        layerID="1" created="1653060491887" x="553.49084" y="-42.9169"
         width="565.0" height="41.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
         <fillColor>#00000000</fillColor>
         <strokeColor>#000000</strokeColor>
@@ -192,8 +192,8 @@
         width="219.83829" height="148.0" strokeWidth="1.0"
         autoSized="false" xsi:type="node">
         <fillColor>#00000000</fillColor>
-        <strokeColor>#7F7F7F</strokeColor>
-        <textColor>#7F7F7F</textColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
         <font>Arial-plain-24</font>
         <URIString>http://vue.tufts.edu/rdf/resource/e25202cac0a8b22301b954aff68b8c6a</URIString>
         <shape xsi:type="ellipse"/>
@@ -215,8 +215,8 @@
         created="1653061113725" x="100.3481" y="-40.406693"
         width="125.0" height="62.346397" strokeWidth="1.0"
         autoSized="false" controlCount="0" arrowState="2" xsi:type="link">
-        <strokeColor>#7F7F7F</strokeColor>
-        <textColor>#7F7F7F</textColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
         <font>Arial-plain-28</font>
         <URIString>http://vue.tufts.edu/rdf/resource/e25202cbc0a8b22301b954af21e72b15</URIString>
         <point1 x="107.78585" y="-39.906693"/>
@@ -242,7 +242,7 @@
         width="243.0" height="84.2926" strokeWidth="1.0"
         autoSized="false" controlCount="0" arrowState="2" xsi:type="link">
         <strokeColor>#000000</strokeColor>
-        <textColor>#7F7F7F</textColor>
+        <textColor>#000000</textColor>
         <font>Arial-plain-28</font>
         <URIString>http://vue.tufts.edu/rdf/resource/e25202cbc0a8b22301b954aff14d765e</URIString>
         <point1 x="-27.621508" y="-484.43335"/>
@@ -256,7 +256,7 @@
         autoSized="false" xsi:type="node">
         <fillColor>#00000000</fillColor>
         <strokeColor>#000000</strokeColor>
-        <textColor>#7F7F7F</textColor>
+        <textColor>#000000</textColor>
         <font>Arial-plain-28</font>
         <URIString>http://vue.tufts.edu/rdf/resource/e25202cbc0a8b22301b954afae8f5696</URIString>
         <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
@@ -351,8 +351,8 @@
         width="195.28003" height="121.17819" strokeWidth="1.0"
         autoSized="false" xsi:type="node">
         <fillColor>#00000000</fillColor>
-        <strokeColor>#7F7F7F</strokeColor>
-        <textColor>#7F7F7F</textColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
         <font>Arial-plain-24</font>
         <URIString>http://vue.tufts.edu/rdf/resource/e25202ccc0a8b22301b954af0391102a</URIString>
         <shape xsi:type="ellipse"/>
@@ -374,8 +374,8 @@
         created="1653062872194" x="-902.3355" y="-96.258606"
         width="143.36926" height="61.57968" strokeWidth="1.0"
         autoSized="false" controlCount="0" arrowState="2" xsi:type="link">
-        <strokeColor>#7F7F7F</strokeColor>
-        <textColor>#7F7F7F</textColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
         <font>Arial-plain-28</font>
         <URIString>http://vue.tufts.edu/rdf/resource/e25202ccc0a8b22301b954af2d7bd5cc</URIString>
         <point1 x="-901.8355" y="-95.758606"/>
@@ -530,7 +530,7 @@
         width="322.04523" height="33.0" strokeWidth="1.0"
         autoSized="false" controlCount="0" arrowState="2" xsi:type="link">
         <strokeColor>#000000</strokeColor>
-        <textColor>#7F7F7F</textColor>
+        <textColor>#000000</textColor>
         <font>Arial-plain-28</font>
         <URIString>http://vue.tufts.edu/rdf/resource/4044332688c70405005e1d98acaebe5e</URIString>
         <point1 x="583.1394" y="-610.51306"/>
@@ -544,7 +544,7 @@
         autoSized="false" xsi:type="node">
         <fillColor>#00000000</fillColor>
         <strokeColor>#000000</strokeColor>
-        <textColor>#7F7F7F</textColor>
+        <textColor>#000000</textColor>
         <font>Arial-plain-28</font>
         <URIString>http://vue.tufts.edu/rdf/resource/4044332688c70405005e1d985e0ae296</URIString>
         <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
