@@ -145,14 +145,14 @@ We would also like to get in closer contact with literary scholars to extend the
 All data modeling is in the public domain and can be reused without restrictions. We don’t claim any copyright or other rights. If you use the ontology, for example in research or teaching, please reference this ontology using the citation suggestion below.
 
 ## Citation Suggestion
-MiMoText ontology, edited by Maria Hinzmann, with contributions from Matthias Bremm, Tinghui Duan, Anne Klee, Johanna Konstanciak Julia Röttgermann, Christof Schöch and Moritz Steffes. Release v1.1.0. Trier: TCDH, 2024. URL: https://github.com/MiMoText/ontology
+MiMoText ontology, edited by Maria Hinzmann, with contributions from Matthias Bremm, Tinghui Duan, Anne Klee, Johanna Konstanciak, Julia Röttgermann, Christof Schöch and Moritz Steffes. Release v1.1.0. Trier: TCDH, 2024. URL: https://github.com/MiMoText/ontology
 
 ## Related Ressources
 - [MiMoTextBase - a knowledge graph on Eighteenth Century French Novels](https://data.mimotext.uni-trier.de)
 - [MiMoText SPARQL endpoint (Query Service)](https://query.mimotext.uni-trier.de)
 - [MiMoText SPARQL tutorial](https://docs.mimotext.uni-trier.de)
 - [interview with Wikimedia Germany](https://tech-news.wikimedia.de/en/2024/06/28/modeling-the-enlightenment-novel-an-interview-with-the-mimotext-team/)
-- [MiMoTextBase Tutorial: How to query the graph and an introduction to SPARQL] https://docs.mimotext.uni-trier.de)
+- [MiMoTextBase Tutorial: How to query the graph and an introduction to SPARQL](https://docs.mimotext.uni-trier.de)
 - [MiMoText vocabularies](https://github.com/MiMoText/vocabularies)
 - [RDF Dump MiMoTextBase](https://doi.org/10.5281/zenodo.10021150)
 
